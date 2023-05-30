@@ -1,0 +1,1001 @@
+CustomerID,OrderID,Date,Full_Name,CustomerCity,CustomerState,ProdNumber,CategoryID,CategoryName,CategoryAbbreviation,ProdName,Category,TotalQuantity,TotalRevenue,TotalPrice
+2,2343,17/05/2021,"Bunny Trevan",Jamaica,"New York",TV811,7,"Training Videos",TV,"Understanding Drone Regulations",7,5,135,27
+3,1599,10/12/2020,"Tracie Grayston",Atlanta,Georgia,RS705,6,Robots,RS,"RQTE-554 Robot",6,5,3420,684
+5,122,24/01/2020,"Shea Stronghill",Midland,Texas,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,1,37,37
+6,796,19/06/2020,"Geoffry Bonde","San Francisco",California,DK205,2,"Drone Kits",DK,BYOD-350,2,3,267,89
+6,326,07/03/2020,"Geoffry Bonde","San Francisco",California,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,5,60,12
+7,2003,04/03/2021,"Noelle Carlile","Oklahoma City",Oklahoma,EB514,4,eBooks,EB,"Polar Robots",4,3,69,23
+8,481,09/04/2020,"Binny Whetson",Rochester,"New York",TV805,7,"Training Videos",TV,"Industrial 3D Printing",7,5,245,49
+9,1470,11/11/2020,"Curran MacMichael",Tucson,Arizona,EB514,4,eBooks,EB,"Polar Robots",4,3,69,23
+10,1886,09/02/2021,"Andy Woodruff",Rochester,"New York",DK209,2,"Drone Kits",DK,BYOD-550,2,3,537,179
+10,1439,02/11/2020,"Andy Woodruff",Rochester,"New York",DS307,3,Drones,DS,"MICR-564K Drone",3,5,2495,499
+10,983,29/07/2020,"Andy Woodruff",Rochester,"New York",BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,4,44,11
+11,50,09/01/2020,"Darla Hassen",Rochester,"New York",EB504,4,eBooks,EB,"Cartesian Robots",4,1,12,12
+12,528,23/04/2020,"Gerard Witherdon",Norman,Oklahoma,TV807,7,"Training Videos",TV,"Open Source Code",7,5,160,32
+13,2186,15/04/2021,"Faber Boosey",Richmond,Virginia,EB501,4,eBooks,EB,"Articulated Robots",4,6,138,23
+14,2344,17/05/2021,"Jorgan Gregh",Tampa,Florida,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,3,750,250
+16,1777,18/01/2021,"Annelise Genders","Silver Spring",Maryland,DS301,3,Drones,DS,"DA-SA702 Drone",3,2,798,399
+18,423,30/03/2020,"Mead Whiteley",Trenton,"New Jersey",DS302,3,Drones,DS,"DC-304 Drone",3,3,1185,395
+19,382,21/03/2020,"Major Aynold",Madison,Wisconsin,RK607,5,"Robot Kits",RK,BYOR-4005,5,5,1225,245
+20,2072,20/03/2021,"Waylan Waison","Cedar Rapids",Iowa,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,5,55,11
+20,461,05/04/2020,"Waylan Waison","Cedar Rapids",Iowa,RK607,5,"Robot Kits",RK,BYOR-4005,5,6,1470,245
+20,116,24/01/2020,"Waylan Waison","Cedar Rapids",Iowa,TV808,7,"Training Videos",TV,"Robotic Essentials",7,3,102,34
+22,388,22/03/2020,"Lucias Stubbins",Chattanooga,Tennessee,RK603,5,"Robot Kits",RK,BYOR-1500,5,5,945,189
+24,1721,06/01/2021,"Worden Gobeau",Reno,Nevada,EB508,4,eBooks,EB,"Fixed Wing Drones",4,4,60,15
+24,737,03/06/2020,"Worden Gobeau",Reno,Nevada,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,5,60,12
+27,974,27/07/2020,"Jacki Kleinzweig",Chandler,Arizona,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,5,60,12
+28,2178,14/04/2021,"Brok De Morena","Corpus Christi",Texas,DS305,3,Drones,DS,"DTI-84 Drone",3,2,910,455
+28,269,24/02/2020,"Brok De Morena","Corpus Christi",Texas,TV808,7,"Training Videos",TV,"Robotic Essentials",7,2,68,34
+30,1259,26/09/2020,"Emelina Nestle",Jamaica,"New York",DK203,2,"Drone Kits",DK,BYOD-220,2,3,207,69
+32,2235,24/04/2021,"Skelly Bubb","San Francisco",California,TV807,7,"Training Videos",TV,"Open Source Code",7,4,128,32
+35,1907,13/02/2021,"Izaak Belfelt",Chicago,Illinois,EB505,4,eBooks,EB,"Delivery Drones",4,3,42,14
+35,1788,21/01/2021,"Izaak Belfelt",Chicago,Illinois,TV802,7,"Training Videos",TV,"AI for Educators",7,6,294,49
+35,1447,04/11/2020,"Izaak Belfelt",Chicago,Illinois,DK201,2,"Drone Kits",DK,BYOD-100,2,3,162,54
+37,1079,21/08/2020,"Othilie Cicullo","Fort Wayne",Indiana,DS302,3,Drones,DS,"DC-304 Drone",3,3,1185,395
+40,1650,22/12/2020,"Kailey Quartermain",Portsmouth,"New Hampshire",TV813,7,"Training Videos",TV,"Virtual Reality Basics",7,3,87,29
+42,1801,23/01/2021,"Adrianne Jumonet",Atlanta,Georgia,EB503,4,eBooks,EB,"Building Your Own Drone",4,4,96,24
+42,1606,11/12/2020,"Adrianne Jumonet",Atlanta,Georgia,DS306,3,Drones,DS,"DX-145 Drone",3,5,1250,250
+43,1415,27/10/2020,"Milli Mulcaster",Columbus,Ohio,DS307,3,Drones,DS,"MICR-564K Drone",3,3,1497,499
+43,40,07/01/2020,"Milli Mulcaster",Columbus,Ohio,DS306,3,Drones,DS,"DX-145 Drone",3,4,1000,250
+45,1922,15/02/2021,"Myca Kitchinghan",Phoenix,Arizona,RS702,6,Robots,RS,"MICR-23K Robot",6,1,899,899
+45,1375,19/10/2020,"Myca Kitchinghan",Phoenix,Arizona,RK604,5,"Robot Kits",RK,BYOR-2640S,5,3,567,189
+46,2276,03/05/2021,"Dill Gyrgorcewicx",Tulsa,Oklahoma,RK605,5,"Robot Kits",RK,BYOR-3000,5,5,1070,214
+46,1444,03/11/2020,"Dill Gyrgorcewicx",Tulsa,Oklahoma,RS705,6,Robots,RS,"RQTE-554 Robot",6,3,2052,684
+46,58,12/01/2020,"Dill Gyrgorcewicx",Tulsa,Oklahoma,EB514,4,eBooks,EB,"Polar Robots",4,4,92,23
+47,1527,23/11/2020,"Gabby MacLennan","Wilkes Barre",Pennsylvania,EB503,4,eBooks,EB,"Building Your Own Drone",4,3,72,24
+47,1051,15/08/2020,"Gabby MacLennan","Wilkes Barre",Pennsylvania,RS706,6,Robots,RS,"RWW-75 Robot",6,3,2649,883
+48,745,05/06/2020,"Claude Nisuis",Springfield,Massachusetts,EB502,4,eBooks,EB,"Building Your First Robot",4,4,96,24
+49,2302,09/05/2021,"Renelle Frangello",Cleveland,Ohio,DK207,2,"Drone Kits",DK,BYOD-400S,2,2,258,129
+49,1653,22/12/2020,"Renelle Frangello",Cleveland,Ohio,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,3,21,7
+49,1400,24/10/2020,"Renelle Frangello",Cleveland,Ohio,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,5,55,11
+54,1270,28/09/2020,"Chaunce Pardi","Sioux Falls","South Dakota",RK603,5,"Robot Kits",RK,BYOR-1500,5,3,567,189
+55,2352,19/05/2021,"Mala Meneely",Chicago,Illinois,EB511,4,eBooks,EB,"Helicopter Drones",4,3,60,20
+56,820,24/06/2020,"Jessamine Denney","Oklahoma City",Oklahoma,TV805,7,"Training Videos",TV,"Industrial 3D Printing",7,1,49,49
+57,1162,07/09/2020,"Angy Millions",Rochester,"New York",EB503,4,eBooks,EB,"Building Your Own Drone",4,4,96,24
+60,1823,26/01/2021,"Arron Cutcliffe",Lansing,Michigan,RK604,5,"Robot Kits",RK,BYOR-2640S,5,3,567,189
+60,1693,31/12/2020,"Arron Cutcliffe",Lansing,Michigan,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,4,48,12
+60,1595,09/12/2020,"Arron Cutcliffe",Lansing,Michigan,RS702,6,Robots,RS,"MICR-23K Robot",6,3,2697,899
+64,2106,29/03/2021,"Lynnelle Beckensall",Philadelphia,Pennsylvania,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,1,28,28
+66,1877,07/02/2021,"Nickolai Briton","San Jose",California,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,2,38,19
+66,1104,26/08/2020,"Nickolai Briton","San Jose",California,RK604,5,"Robot Kits",RK,BYOR-2640S,5,3,567,189
+66,940,20/07/2020,"Nickolai Briton","San Jose",California,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,2,14,7
+67,2016,07/03/2021,"Patience Menendez",Galveston,Texas,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,5,20,4
+67,1894,11/02/2021,"Patience Menendez",Galveston,Texas,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,3,36,12
+70,2094,26/03/2021,"Pandora Punter",Naples,Florida,DK206,2,"Drone Kits",DK,BYOD-400,2,5,595,119
+71,2027,10/03/2021,"Darb Meaddowcroft",Tacoma,Washington,RK604,5,"Robot Kits",RK,BYOR-2640S,5,2,378,189
+71,1279,30/09/2020,"Darb Meaddowcroft",Tacoma,Washington,EB520,4,eBooks,EB,"Understanding Arduino",4,4,68,17
+71,633,15/05/2020,"Darb Meaddowcroft",Tacoma,Washington,RK606,5,"Robot Kits",RK,BYOR-3535,5,2,450,225
+71,400,24/03/2020,"Darb Meaddowcroft",Tacoma,Washington,TV808,7,"Training Videos",TV,"Robotic Essentials",7,4,136,34
+72,2266,02/05/2021,"Morgan Manske",Brockton,Massachusetts,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,2,56,28
+72,1336,13/10/2020,"Morgan Manske",Brockton,Massachusetts,TV808,7,"Training Videos",TV,"Robotic Essentials",7,4,136,34
+72,1136,02/09/2020,"Morgan Manske",Brockton,Massachusetts,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,3,36,12
+74,2328,14/05/2021,"Jobyna Jordan",Melbourne,Florida,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,6,54,9
+74,1477,13/11/2020,"Jobyna Jordan",Melbourne,Florida,RK602,5,"Robot Kits",RK,BYOR-1000,5,5,945,189
+74,746,05/06/2020,"Jobyna Jordan",Melbourne,Florida,EB503,4,eBooks,EB,"Building Your Own Drone",4,4,96,24
+75,963,23/07/2020,"Shaine Gumme","Oklahoma City",Oklahoma,RS707,6,Robots,RS,"RXW-9807 Robot",6,5,2995,599
+76,2183,15/04/2021,"Derk Duddan",Elizabeth,"New Jersey",DK206,2,"Drone Kits",DK,BYOD-400,2,3,357,119
+77,1261,26/09/2020,"Mair Mallabar","Saint Paul",Minnesota,RS703,6,Robots,RS,"RCB-889 Robot",6,4,2196,549
+79,2211,20/04/2021,"Chev Lisett",Whittier,California,RS703,6,Robots,RS,"RCB-889 Robot",6,4,2196,549
+80,1519,21/11/2020,"Allard Dalloway","Green Bay",Wisconsin,EB519,4,eBooks,EB,"Spherical Robots",4,5,80,16
+80,674,22/05/2020,"Allard Dalloway","Green Bay",Wisconsin,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,2,74,37
+81,1890,10/02/2021,"Linnet Bleiman",Tampa,Florida,EB511,4,eBooks,EB,"Helicopter Drones",4,3,60,20
+86,1854,01/02/2021,"Arnold Sommersett",Reston,Virginia,BP106,1,Blueprints,BP,"Hexacopter Drone Blueprint",1,4,32,8
+87,2167,11/04/2021,"Turner Bodocs","Myrtle Beach","South Carolina",BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,6,54,9
+90,2367,22/05/2021,"Debee Syrad",Seattle,Washington,DS303,3,Drones,DS,"DTD-7000 Drone",3,2,900,450
+95,630,15/05/2020,"Birgitta Decourcy",Mobile,Alabama,TV808,7,"Training Videos",TV,"Robotic Essentials",7,4,136,34
+95,596,09/05/2020,"Birgitta Decourcy",Mobile,Alabama,BP106,1,Blueprints,BP,"Hexacopter Drone Blueprint",1,2,16,8
+96,75,16/01/2020,"Alano Cudmore",Chattanooga,Tennessee,DK205,2,"Drone Kits",DK,BYOD-350,2,5,445,89
+98,2177,13/04/2021,"Anson Anfusso","Cedar Rapids",Iowa,BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,3,24,8
+98,1789,21/01/2021,"Anson Anfusso","Cedar Rapids",Iowa,EB505,4,eBooks,EB,"Delivery Drones",4,3,42,14
+98,936,19/07/2020,"Anson Anfusso","Cedar Rapids",Iowa,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,6,24,4
+98,477,08/04/2020,"Anson Anfusso","Cedar Rapids",Iowa,EB513,4,eBooks,EB,"Photograph Drones",4,6,84,14
+99,1335,12/10/2020,"Marjie Bodesson",Rochester,"New York",DS305,3,Drones,DS,"DTI-84 Drone",3,3,1365,455
+99,1278,30/09/2020,"Marjie Bodesson",Rochester,"New York",DK202,2,"Drone Kits",DK,BYOD-200,2,4,232,58
+99,525,22/04/2020,"Marjie Bodesson",Rochester,"New York",EB502,4,eBooks,EB,"Building Your First Robot",4,3,72,24
+99,87,20/01/2020,"Marjie Bodesson",Rochester,"New York",EB518,4,eBooks,EB,"Single Rotor Drones",4,1,14,14
+102,1504,19/11/2020,"Carmine Cruz","San Francisco",California,TV813,7,"Training Videos",TV,"Virtual Reality Basics",7,3,87,29
+102,1185,12/09/2020,"Carmine Cruz","San Francisco",California,RS707,6,Robots,RS,"RXW-9807 Robot",6,5,2995,599
+106,594,09/05/2020,"Marijn Alden","New Orleans",Louisiana,EB516,4,eBooks,EB,"RTF Drones",4,4,64,16
+107,1140,02/09/2020,"Aurea Bluschke","San Jose",California,RK606,5,"Robot Kits",RK,BYOR-3535,5,1,225,225
+107,452,03/04/2020,"Aurea Bluschke","San Jose",California,DS302,3,Drones,DS,"DC-304 Drone",3,3,1185,395
+109,2279,04/05/2021,"Maryl Mathet",Charlotte,"North Carolina",DS305,3,Drones,DS,"DTI-84 Drone",3,4,1820,455
+109,1250,24/09/2020,"Maryl Mathet",Charlotte,"North Carolina",EB518,4,eBooks,EB,"Single Rotor Drones",4,5,70,14
+111,1240,22/09/2020,"Neil Pitsall","Port Saint Lucie",Florida,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,3,33,11
+112,1184,11/09/2020,"Myriam Ravenscroftt",Omaha,Nebraska,TV808,7,"Training Videos",TV,"Robotic Essentials",7,3,102,34
+113,1704,03/01/2021,"Angelico Mytton",Lawrenceville,Georgia,RS706,6,Robots,RS,"RWW-75 Robot",6,3,2649,883
+113,1629,18/12/2020,"Angelico Mytton",Lawrenceville,Georgia,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,4,28,7
+114,395,23/03/2020,"Maureen Tolliday",Peoria,Illinois,EB506,4,eBooks,EB,"Delta Robots",4,4,64,16
+119,2274,03/05/2021,"Haleigh Coulter",Inglewood,California,RS706,6,Robots,RS,"RWW-75 Robot",6,4,3532,883
+119,274,25/02/2020,"Haleigh Coulter",Inglewood,California,RS703,6,Robots,RS,"RCB-889 Robot",6,3,1647,549
+120,2041,13/03/2021,"Moe Faulo","Boca Raton",Florida,RS703,6,Robots,RS,"RCB-889 Robot",6,2,1098,549
+122,849,01/07/2020,"Bary Daniely","Corpus Christi",Texas,RS706,6,Robots,RS,"RWW-75 Robot",6,4,3532,883
+125,723,01/06/2020,"Joey Woodier","Saint Petersburg",Florida,RK604,5,"Robot Kits",RK,BYOR-2640S,5,2,378,189
+126,2129,02/04/2021,"Christoforo Lanney",Canton,Ohio,EB512,4,eBooks,EB,"Multi Rotor Drones",4,5,120,24
+126,719,31/05/2020,"Christoforo Lanney",Canton,Ohio,EB516,4,eBooks,EB,"RTF Drones",4,4,64,16
+126,253,20/02/2020,"Christoforo Lanney",Canton,Ohio,DK205,2,"Drone Kits",DK,BYOD-350,2,5,445,89
+127,1870,06/02/2021,"Riccardo McMurtyr",Albany,"New York",EB512,4,eBooks,EB,"Multi Rotor Drones",4,3,72,24
+127,1158,05/09/2020,"Riccardo McMurtyr",Albany,"New York",EB518,4,eBooks,EB,"Single Rotor Drones",4,1,14,14
+128,810,22/06/2020,"Norman Foale",Englewood,Colorado,RS705,6,Robots,RS,"RQTE-554 Robot",6,4,2736,684
+130,1083,22/08/2020,"Heidie Winyard",Saginaw,Michigan,DS301,3,Drones,DS,"DA-SA702 Drone",3,5,1995,399
+131,729,02/06/2020,"Jaclyn Cleaton","New York City","New York",DS304,3,Drones,DS,"DTE-QFN20 Drone",3,4,1000,250
+132,237,16/02/2020,"Jerrilyn Doubrava","Saint Louis",Missouri,DS302,3,Drones,DS,"DC-304 Drone",3,5,1975,395
+133,521,20/04/2020,"Roby Pitts",Savannah,Georgia,EB513,4,eBooks,EB,"Photograph Drones",4,3,42,14
+133,289,28/02/2020,"Roby Pitts",Savannah,Georgia,EB511,4,eBooks,EB,"Helicopter Drones",4,5,100,20
+133,62,13/01/2020,"Roby Pitts",Savannah,Georgia,EB508,4,eBooks,EB,"Fixed Wing Drones",4,4,60,15
+134,1942,20/02/2021,"Abramo Jentzsch",Fullerton,California,TV801,7,"Training Videos",TV,"Aerial Security",7,5,180,36
+134,958,22/07/2020,"Abramo Jentzsch",Fullerton,California,RK607,5,"Robot Kits",RK,BYOR-4005,5,4,980,245
+134,339,09/03/2020,"Abramo Jentzsch",Fullerton,California,RS702,6,Robots,RS,"MICR-23K Robot",6,3,2697,899
+136,2264,01/05/2021,"Jessalin Bestwerthick",Mobile,Alabama,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,5,95,19
+138,2309,10/05/2021,"Clement Milvarnie",Newark,"New Jersey",EB519,4,eBooks,EB,"Spherical Robots",4,3,48,16
+139,1765,16/01/2021,"Ebony Roelofs",Indianapolis,Indiana,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,1,37,37
+141,1703,03/01/2021,"Waylin Bernolet",Appleton,Wisconsin,TV802,7,"Training Videos",TV,"AI for Educators",7,3,147,49
+141,1329,11/10/2020,"Waylin Bernolet",Appleton,Wisconsin,RK604,5,"Robot Kits",RK,BYOR-2640S,5,3,567,189
+141,1303,06/10/2020,"Waylin Bernolet",Appleton,Wisconsin,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,3,36,12
+141,360,15/03/2020,"Waylin Bernolet",Appleton,Wisconsin,DK209,2,"Drone Kits",DK,BYOD-550,2,4,716,179
+142,1208,16/09/2020,"Ezequiel Blakeden",Louisville,Kentucky,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,2,22,11
+143,1072,19/08/2020,"Margery Pourvoieur","Fort Pierce",Florida,TV813,7,"Training Videos",TV,"Virtual Reality Basics",7,3,87,29
+143,1010,04/08/2020,"Margery Pourvoieur","Fort Pierce",Florida,DK203,2,"Drone Kits",DK,BYOD-220,2,5,345,69
+146,1058,16/08/2020,"Monte Scutter",Newark,"New Jersey",TV805,7,"Training Videos",TV,"Industrial 3D Printing",7,6,294,49
+146,270,24/02/2020,"Monte Scutter",Newark,"New Jersey",TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,1,28,28
+148,32,06/01/2020,"Oswell Cuthbert",Mobile,Alabama,DK203,2,"Drone Kits",DK,BYOD-220,2,3,207,69
+149,499,14/04/2020,"Lida Hasard",Roanoke,Virginia,RS706,6,Robots,RS,"RWW-75 Robot",6,4,3532,883
+150,226,14/02/2020,"Pollyanna Stonehewer",Houston,Texas,RS703,6,Robots,RS,"RCB-889 Robot",6,3,1647,549
+152,1980,28/02/2021,"Margaretta Gales",Alhambra,California,RK602,5,"Robot Kits",RK,BYOR-1000,5,4,756,189
+152,1182,11/09/2020,"Margaretta Gales",Alhambra,California,RS702,6,Robots,RS,"MICR-23K Robot",6,4,3596,899
+152,805,21/06/2020,"Margaretta Gales",Alhambra,California,DS303,3,Drones,DS,"DTD-7000 Drone",3,5,2250,450
+153,1341,13/10/2020,"Thor Illiston",Detroit,Michigan,TV806,7,"Training Videos",TV,"Mapping with Drones",7,2,98,49
+154,1792,22/01/2021,"Frank Martini",Chicago,Illinois,DK206,2,"Drone Kits",DK,BYOD-400,2,4,476,119
+154,1038,10/08/2020,"Frank Martini",Chicago,Illinois,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,3,111,37
+155,951,21/07/2020,"Siobhan Gildea","Fort Wayne",Indiana,DK203,2,"Drone Kits",DK,BYOD-220,2,4,276,69
+155,831,26/06/2020,"Siobhan Gildea","Fort Wayne",Indiana,RS703,6,Robots,RS,"RCB-889 Robot",6,2,1098,549
+156,1513,20/11/2020,"Eran Grombridge",Washington,"District of Columbia",EB516,4,eBooks,EB,"RTF Drones",4,4,64,16
+156,215,12/02/2020,"Eran Grombridge",Washington,"District of Columbia",TV808,7,"Training Videos",TV,"Robotic Essentials",7,5,170,34
+157,33,06/01/2020,"Odelia Halbard",Birmingham,Alabama,RS706,6,Robots,RS,"RWW-75 Robot",6,3,2649,883
+157,13,02/01/2020,"Odelia Halbard",Birmingham,Alabama,EB508,4,eBooks,EB,"Fixed Wing Drones",4,3,45,15
+158,611,11/05/2020,"Aubree Pomphrey",Tucson,Arizona,EB517,4,eBooks,EB,"SCARA Robots",4,3,57,19
+160,1782,19/01/2021,"Delcine Giffard",Syracuse,"New York",DS304,3,Drones,DS,"DTE-QFN20 Drone",3,5,1250,250
+160,111,23/01/2020,"Delcine Giffard",Syracuse,"New York",DS305,3,Drones,DS,"DTI-84 Drone",3,5,2275,455
+162,1274,29/09/2020,"Gabrielle Willans",Beaverton,Oregon,EB517,4,eBooks,EB,"SCARA Robots",4,3,57,19
+163,1282,30/09/2020,"Patricio Coils","Shawnee Mission",Kansas,RK605,5,"Robot Kits",RK,BYOR-3000,5,3,642,214
+163,761,09/06/2020,"Patricio Coils","Shawnee Mission",Kansas,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,3,111,37
+164,702,29/05/2020,"Reagen Bulstrode",Minneapolis,Minnesota,EB520,4,eBooks,EB,"Understanding Arduino",4,4,68,17
+165,1656,23/12/2020,"Wells Grieveson",Torrance,California,RK605,5,"Robot Kits",RK,BYOR-3000,5,3,642,214
+169,1284,01/10/2020,"Ibby Romer",Wilmington,Delaware,RK607,5,"Robot Kits",RK,BYOR-4005,5,4,980,245
+169,1027,08/08/2020,"Ibby Romer",Wilmington,Delaware,BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,5,40,8
+170,1871,06/02/2021,"Tyrone Burnhams",Baltimore,Maryland,EB501,4,eBooks,EB,"Articulated Robots",4,2,46,23
+170,405,26/03/2020,"Tyrone Burnhams",Baltimore,Maryland,DK203,2,"Drone Kits",DK,BYOD-220,2,5,345,69
+172,2151,08/04/2021,"Jo ann Murden",Washington,"District of Columbia",DK204,2,"Drone Kits",DK,BYOD-300,2,3,267,89
+173,401,24/03/2020,"Dannie Geockle",Ocala,Florida,DK202,2,"Drone Kits",DK,BYOD-200,2,3,174,58
+174,2001,04/03/2021,"Pail Franken",Topeka,Kansas,EB505,4,eBooks,EB,"Delivery Drones",4,4,56,14
+179,1949,22/02/2021,"Aindrea Kingaby","West Palm Beach",Florida,EB505,4,eBooks,EB,"Delivery Drones",4,3,42,14
+179,1368,18/10/2020,"Aindrea Kingaby","West Palm Beach",Florida,DK207,2,"Drone Kits",DK,BYOD-400S,2,5,645,129
+179,14,02/01/2020,"Aindrea Kingaby","West Palm Beach",Florida,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,2,24,12
+180,1934,17/02/2021,"Joyce Brayshay",Lubbock,Texas,RS705,6,Robots,RS,"RQTE-554 Robot",6,4,2736,684
+180,1615,13/12/2020,"Joyce Brayshay",Lubbock,Texas,EB505,4,eBooks,EB,"Delivery Drones",4,4,56,14
+181,1015,06/08/2020,"Bibby Yerrington","Ann Arbor",Michigan,EB506,4,eBooks,EB,"Delta Robots",4,5,80,16
+181,790,17/06/2020,"Bibby Yerrington","Ann Arbor",Michigan,EB509,4,eBooks,EB,"GPS Drones",4,4,76,19
+183,320,04/03/2020,"Ricoriki Hargreaves",Columbus,Ohio,EB513,4,eBooks,EB,"Photograph Drones",4,5,70,14
+184,1981,28/02/2021,"Tim Honig","Maple Plain",Minnesota,DK205,2,"Drone Kits",DK,BYOD-350,2,4,356,89
+184,1445,03/11/2020,"Tim Honig","Maple Plain",Minnesota,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,4,36,9
+184,944,20/07/2020,"Tim Honig","Maple Plain",Minnesota,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,4,148,37
+185,2053,16/03/2021,"Umberto Lamboll",Fresno,California,RS704,6,Robots,RS,"RLK-9920 Robot",6,2,1398,699
+185,1935,18/02/2021,"Umberto Lamboll",Fresno,California,EB509,4,eBooks,EB,"GPS Drones",4,4,76,19
+185,1097,24/08/2020,"Umberto Lamboll",Fresno,California,EB516,4,eBooks,EB,"RTF Drones",4,3,48,16
+185,71,15/01/2020,"Umberto Lamboll",Fresno,California,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,5,55,11
+187,1583,07/12/2020,"Andrej Bentley",Atlanta,Georgia,EB516,4,eBooks,EB,"RTF Drones",4,3,48,16
+187,396,23/03/2020,"Andrej Bentley",Atlanta,Georgia,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,1,12,12
+187,358,14/03/2020,"Andrej Bentley",Atlanta,Georgia,TV802,7,"Training Videos",TV,"AI for Educators",7,5,245,49
+188,1610,12/12/2020,"Brunhilda Lerner",Toledo,Ohio,BP106,1,Blueprints,BP,"Hexacopter Drone Blueprint",1,6,48,8
+189,1437,02/11/2020,"Giavani Newlands","El Paso",Texas,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,6,42,7
+189,572,05/05/2020,"Giavani Newlands","El Paso",Texas,EB519,4,eBooks,EB,"Spherical Robots",4,3,48,16
+190,450,03/04/2020,"Edwin Rowan",Mesquite,Texas,EB505,4,eBooks,EB,"Delivery Drones",4,5,70,14
+191,2049,15/03/2021,"Vivie Seeking","Colorado Springs",Colorado,DS306,3,Drones,DS,"DX-145 Drone",3,4,1000,250
+193,1234,22/09/2020,"Urbain Tourry",Waco,Texas,DK202,2,"Drone Kits",DK,BYOD-200,2,6,348,58
+193,1163,07/09/2020,"Urbain Tourry",Waco,Texas,EB511,4,eBooks,EB,"Helicopter Drones",4,2,40,20
+196,1420,28/10/2020,"Denise Lardez",Fullerton,California,DK209,2,"Drone Kits",DK,BYOD-550,2,1,179,179
+198,2242,26/04/2021,"Halley Brisley",Omaha,Nebraska,EB503,4,eBooks,EB,"Building Your Own Drone",4,3,72,24
+198,1627,17/12/2020,"Halley Brisley",Omaha,Nebraska,RK603,5,"Robot Kits",RK,BYOR-1500,5,5,945,189
+198,1569,05/12/2020,"Halley Brisley",Omaha,Nebraska,EB503,4,eBooks,EB,"Building Your Own Drone",4,4,96,24
+198,1523,23/11/2020,"Halley Brisley",Omaha,Nebraska,DK205,2,"Drone Kits",DK,BYOD-350,2,5,445,89
+198,262,21/02/2020,"Halley Brisley",Omaha,Nebraska,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,5,35,7
+200,1957,23/02/2021,"Lianne Chippindall",Washington,"District of Columbia",TV805,7,"Training Videos",TV,"Industrial 3D Printing",7,5,245,49
+200,1060,16/08/2020,"Lianne Chippindall",Washington,"District of Columbia",EB509,4,eBooks,EB,"GPS Drones",4,4,76,19
+200,802,20/06/2020,"Lianne Chippindall",Washington,"District of Columbia",DS305,3,Drones,DS,"DTI-84 Drone",3,2,910,455
+200,351,13/03/2020,"Lianne Chippindall",Washington,"District of Columbia",RS706,6,Robots,RS,"RWW-75 Robot",6,4,3532,883
+201,742,04/06/2020,"Clem Baldin",Washington,"District of Columbia",TV808,7,"Training Videos",TV,"Robotic Essentials",7,2,68,34
+202,194,08/02/2020,"Toiboid Cowper","Fort Worth",Texas,RS706,6,Robots,RS,"RWW-75 Robot",6,4,3532,883
+203,204,10/02/2020,"Eldridge Winman","Las Vegas",Nevada,EB513,4,eBooks,EB,"Photograph Drones",4,3,42,14
+204,179,06/02/2020,"Norrie Acheson",Minneapolis,Minnesota,EB505,4,eBooks,EB,"Delivery Drones",4,3,42,14
+205,1605,11/12/2020,"Georgianna Harrild",Amarillo,Texas,EB516,4,eBooks,EB,"RTF Drones",4,2,32,16
+206,2232,24/04/2021,"Buiron Haycock","Sioux Falls","South Dakota",TV801,7,"Training Videos",TV,"Aerial Security",7,5,180,36
+206,538,25/04/2020,"Buiron Haycock","Sioux Falls","South Dakota",BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,2,16,8
+209,447,03/04/2020,"Earvin Askell","New Orleans",Louisiana,TV802,7,"Training Videos",TV,"AI for Educators",7,1,49,49
+209,88,20/01/2020,"Earvin Askell","New Orleans",Louisiana,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,3,57,19
+211,1932,16/02/2021,"Lesli Ormes","Carol Stream",Illinois,EB507,4,eBooks,EB,"Drone Building Essentials",4,4,52,13
+211,438,02/04/2020,"Lesli Ormes","Carol Stream",Illinois,RS704,6,Robots,RS,"RLK-9920 Robot",6,5,3495,699
+212,1484,15/11/2020,"David De Giovanni",Jacksonville,Florida,EB505,4,eBooks,EB,"Delivery Drones",4,3,42,14
+213,2082,24/03/2021,"Isidor Asman",Pasadena,California,DK206,2,"Drone Kits",DK,BYOD-400,2,2,238,119
+213,1773,17/01/2021,"Isidor Asman",Pasadena,California,RK605,5,"Robot Kits",RK,BYOR-3000,5,3,642,214
+213,1109,27/08/2020,"Isidor Asman",Pasadena,California,TV801,7,"Training Videos",TV,"Aerial Security",7,3,108,36
+214,750,07/06/2020,"Ogdon Cainey",Woburn,Massachusetts,EB513,4,eBooks,EB,"Photograph Drones",4,4,56,14
+216,135,27/01/2020,"Derry Game",Newark,"New Jersey",EB513,4,eBooks,EB,"Photograph Drones",4,4,56,14
+217,1669,25/12/2020,"Angelo Widdup","Saint Paul",Minnesota,TV808,7,"Training Videos",TV,"Robotic Essentials",7,3,102,34
+217,1538,26/11/2020,"Angelo Widdup","Saint Paul",Minnesota,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,3,750,250
+217,842,30/06/2020,"Angelo Widdup","Saint Paul",Minnesota,RK604,5,"Robot Kits",RK,BYOR-2640S,5,5,945,189
+218,1302,05/10/2020,"Abagail Defraine",Orlando,Florida,EB518,4,eBooks,EB,"Single Rotor Drones",4,5,70,14
+218,881,08/07/2020,"Abagail Defraine",Orlando,Florida,TV803,7,"Training Videos",TV,"Cloud Computing",7,5,145,29
+219,1600,10/12/2020,"Esther Semerad","Salt Lake City",Utah,RK607,5,"Robot Kits",RK,BYOR-4005,5,5,1225,245
+221,2336,16/05/2021,"Sheena Steuhlmeyer",Albuquerque,"New Mexico",RK604,5,"Robot Kits",RK,BYOR-2640S,5,5,945,189
+221,1953,22/02/2021,"Sheena Steuhlmeyer",Albuquerque,"New Mexico",RS702,6,Robots,RS,"MICR-23K Robot",6,3,2697,899
+221,1069,18/08/2020,"Sheena Steuhlmeyer",Albuquerque,"New Mexico",BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,2,14,7
+222,953,21/07/2020,"Rosie Primak",Reno,Nevada,RK603,5,"Robot Kits",RK,BYOR-1500,5,3,567,189
+223,1506,19/11/2020,"Bryn Gulliford",Waterbury,Connecticut,RS705,6,Robots,RS,"RQTE-554 Robot",6,5,3420,684
+225,1652,22/12/2020,"Ben Yitzhok",Albany,"New York",RK603,5,"Robot Kits",RK,BYOR-1500,5,3,567,189
+225,607,10/05/2020,"Ben Yitzhok",Albany,"New York",DS307,3,Drones,DS,"MICR-564K Drone",3,6,2994,499
+228,981,29/07/2020,"Tina Argontt",Washington,"District of Columbia",TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,4,168,42
+229,1516,20/11/2020,"Sibby Fishe","New York City","New York",TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,3,126,42
+229,1399,24/10/2020,"Sibby Fishe","New York City","New York",TV802,7,"Training Videos",TV,"AI for Educators",7,2,98,49
+229,1187,12/09/2020,"Sibby Fishe","New York City","New York",EB519,4,eBooks,EB,"Spherical Robots",4,3,48,16
+230,1698,02/01/2021,"Angelika Purchon",London,Kentucky,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,4,1000,250
+231,431,01/04/2020,"Anissa Androsik",Atlanta,Georgia,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,3,33,11
+232,1730,09/01/2021,"Tisha Benezeit",Spokane,Washington,EB512,4,eBooks,EB,"Multi Rotor Drones",4,5,120,24
+234,2037,13/03/2021,"Kaspar Tipple",Detroit,Michigan,DS302,3,Drones,DS,"DC-304 Drone",3,3,1185,395
+234,1781,19/01/2021,"Kaspar Tipple",Detroit,Michigan,DK202,2,"Drone Kits",DK,BYOD-200,2,4,232,58
+235,1213,17/09/2020,"Doe O'Luby",Fairbanks,Alaska,RK605,5,"Robot Kits",RK,BYOR-3000,5,2,428,214
+236,564,03/05/2020,"Rowland Eldered",Akron,Ohio,BP106,1,Blueprints,BP,"Hexacopter Drone Blueprint",1,2,16,8
+237,1181,10/09/2020,"Amitie Alyokhin",Philadelphia,Pennsylvania,DK202,2,"Drone Kits",DK,BYOD-200,2,5,290,58
+239,1237,22/09/2020,"Karim Coen",Savannah,Georgia,TV803,7,"Training Videos",TV,"Cloud Computing",7,2,58,29
+240,838,28/06/2020,"Corbin Swan","Redwood City",California,RK607,5,"Robot Kits",RK,BYOR-4005,5,4,980,245
+240,225,14/02/2020,"Corbin Swan","Redwood City",California,DK207,2,"Drone Kits",DK,BYOD-400S,2,2,258,129
+241,1206,16/09/2020,"Sara Gruszka",Chicago,Illinois,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,5,20,4
+242,497,14/04/2020,"Ab Walsh","Winston Salem","North Carolina",DS307,3,Drones,DS,"MICR-564K Drone",3,4,1996,499
+243,1998,03/03/2021,"Darci Babber","San Francisco",California,DK205,2,"Drone Kits",DK,BYOD-350,2,2,178,89
+244,2033,12/03/2021,"Jobie Pinchen",Birmingham,Alabama,EB503,4,eBooks,EB,"Building Your Own Drone",4,6,144,24
+244,1325,10/10/2020,"Jobie Pinchen",Birmingham,Alabama,TV802,7,"Training Videos",TV,"AI for Educators",7,3,147,49
+244,874,07/07/2020,"Jobie Pinchen",Birmingham,Alabama,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,1,28,28
+252,1716,05/01/2021,"Aurelie McGeorge",Joliet,Illinois,EB508,4,eBooks,EB,"Fixed Wing Drones",4,3,45,15
+252,403,25/03/2020,"Aurelie McGeorge",Joliet,Illinois,DK202,2,"Drone Kits",DK,BYOD-200,2,4,232,58
+254,957,22/07/2020,"Megen Colborn",Canton,Ohio,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,1,37,37
+256,133,27/01/2020,"Frasquito Honatsch",Hartford,Connecticut,BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,1,8,8
+259,2204,19/04/2021,"Daisie Connelly",Washington,"District of Columbia",DS303,3,Drones,DS,"DTD-7000 Drone",3,4,1800,450
+259,1613,13/12/2020,"Daisie Connelly",Washington,"District of Columbia",TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,3,84,28
+259,1514,20/11/2020,"Daisie Connelly",Washington,"District of Columbia",BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,1,8,8
+260,108,23/01/2020,"Charlena Lille",Birmingham,Alabama,TV803,7,"Training Videos",TV,"Cloud Computing",7,2,58,29
+262,1940,19/02/2021,"Granny Matevosian","Kansas City",Missouri,RS705,6,Robots,RS,"RQTE-554 Robot",6,3,2052,684
+263,1928,16/02/2021,"Mariquilla Stovin",Houston,Texas,DS305,3,Drones,DS,"DTI-84 Drone",3,4,1820,455
+263,1742,12/01/2021,"Mariquilla Stovin",Houston,Texas,TV806,7,"Training Videos",TV,"Mapping with Drones",7,4,196,49
+265,1863,04/02/2021,"Devlin Nock",Austin,Texas,RS703,6,Robots,RS,"RCB-889 Robot",6,5,2745,549
+265,1675,28/12/2020,"Devlin Nock",Austin,Texas,DK201,2,"Drone Kits",DK,BYOD-100,2,2,108,54
+265,573,05/05/2020,"Devlin Nock",Austin,Texas,TV806,7,"Training Videos",TV,"Mapping with Drones",7,2,98,49
+266,1048,13/08/2020,"Waring Pickering",Alexandria,Louisiana,EB501,4,eBooks,EB,"Articulated Robots",4,2,46,23
+267,1570,05/12/2020,"Jeanine Merit",Madison,Wisconsin,DS307,3,Drones,DS,"MICR-564K Drone",3,4,1996,499
+267,1223,19/09/2020,"Jeanine Merit",Madison,Wisconsin,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,2,500,250
+269,2052,16/03/2021,"Willi Ortiger",Hartford,Connecticut,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,2,500,250
+269,1690,31/12/2020,"Willi Ortiger",Hartford,Connecticut,EB506,4,eBooks,EB,"Delta Robots",4,4,64,16
+270,11,02/01/2020,"Gayel Mirrlees",Washington,"District of Columbia",RK604,5,"Robot Kits",RK,BYOR-2640S,5,2,378,189
+271,2084,24/03/2021,"Beverlee Hards",Beaumont,Texas,RS707,6,Robots,RS,"RXW-9807 Robot",6,4,2396,599
+272,1268,28/09/2020,"Hendrika Charlo",Concord,California,TV811,7,"Training Videos",TV,"Understanding Drone Regulations",7,3,81,27
+272,1053,15/08/2020,"Hendrika Charlo",Concord,California,TV811,7,"Training Videos",TV,"Understanding Drone Regulations",7,2,54,27
+273,2305,10/05/2021,"Olav Wisbey","Carol Stream",Illinois,EB508,4,eBooks,EB,"Fixed Wing Drones",4,1,15,15
+273,1994,02/03/2021,"Olav Wisbey","Carol Stream",Illinois,RK606,5,"Robot Kits",RK,BYOR-3535,5,3,675,225
+273,1252,25/09/2020,"Olav Wisbey","Carol Stream",Illinois,RK606,5,"Robot Kits",RK,BYOR-3535,5,6,1350,225
+274,1023,07/08/2020,"Gennie Kinge",Sacramento,California,RS706,6,Robots,RS,"RWW-75 Robot",6,5,4415,883
+274,364,16/03/2020,"Gennie Kinge",Sacramento,California,RS707,6,Robots,RS,"RXW-9807 Robot",6,4,2396,599
+275,863,04/07/2020,"Dorthea Mirrlees",Newark,"New Jersey",BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,1,12,12
+275,114,23/01/2020,"Dorthea Mirrlees",Newark,"New Jersey",DK206,2,"Drone Kits",DK,BYOD-400,2,4,476,119
+279,777,14/06/2020,"Pascale Cubuzzi",Schenectady,"New York",DK205,2,"Drone Kits",DK,BYOD-350,2,2,178,89
+279,609,11/05/2020,"Pascale Cubuzzi",Schenectady,"New York",BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,3,36,12
+281,325,06/03/2020,"Malvin Ousley","Boynton Beach",Florida,EB513,4,eBooks,EB,"Photograph Drones",4,1,14,14
+281,28,05/01/2020,"Malvin Ousley","Boynton Beach",Florida,EB517,4,eBooks,EB,"SCARA Robots",4,4,76,19
+282,755,08/06/2020,"Marita Bignall",Sterling,Virginia,EB507,4,eBooks,EB,"Drone Building Essentials",4,5,65,13
+283,1201,15/09/2020,"Charmion Le Gassick",Shreveport,Louisiana,TV807,7,"Training Videos",TV,"Open Source Code",7,4,128,32
+284,1844,31/01/2021,"Rebbecca Borland",Houston,Texas,TV808,7,"Training Videos",TV,"Robotic Essentials",7,6,204,34
+285,1462,09/11/2020,"Rowena McCandless","El Paso",Texas,RK606,5,"Robot Kits",RK,BYOR-3535,5,5,1125,225
+285,671,22/05/2020,"Rowena McCandless","El Paso",Texas,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,1,19,19
+287,1371,19/10/2020,"Elna De Angelo",Honolulu,Hawaii,EB505,4,eBooks,EB,"Delivery Drones",4,4,56,14
+287,1225,19/09/2020,"Elna De Angelo",Honolulu,Hawaii,EB504,4,eBooks,EB,"Cartesian Robots",4,2,24,12
+287,1101,25/08/2020,"Elna De Angelo",Honolulu,Hawaii,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,4,28,7
+287,4,01/01/2020,"Elna De Angelo",Honolulu,Hawaii,DK203,2,"Drone Kits",DK,BYOD-220,2,1,69,69
+288,55,10/01/2020,"Nancey Kelley",Denver,Colorado,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,2,56,28
+291,2019,07/03/2021,"Kahaleel Prium",Norfolk,Virginia,DK206,2,"Drone Kits",DK,BYOD-400,2,6,714,119
+291,1821,26/01/2021,"Kahaleel Prium",Norfolk,Virginia,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,3,84,28
+291,1751,13/01/2021,"Kahaleel Prium",Norfolk,Virginia,EB506,4,eBooks,EB,"Delta Robots",4,3,48,16
+292,2126,02/04/2021,"Paula Olivi",Sacramento,California,DS306,3,Drones,DS,"DX-145 Drone",3,5,1250,250
+292,25,05/01/2020,"Paula Olivi",Sacramento,California,EB516,4,eBooks,EB,"RTF Drones",4,5,80,16
+293,1975,26/02/2021,"Augustin Loughman",Jamaica,"New York",EB501,4,eBooks,EB,"Articulated Robots",4,5,115,23
+293,1459,08/11/2020,"Augustin Loughman",Jamaica,"New York",TV804,7,"Training Videos",TV,"Drone Video Techniques",7,1,37,37
+295,1220,18/09/2020,"Red Winning",Springfield,Illinois,EB514,4,eBooks,EB,"Polar Robots",4,4,92,23
+295,767,10/06/2020,"Red Winning",Springfield,Illinois,EB511,4,eBooks,EB,"Helicopter Drones",4,3,60,20
+296,2144,05/04/2021,"Vassily Fraczek",Tampa,Florida,TV810,7,"Training Videos",TV,"Understanding Automation",7,3,132,44
+297,2227,23/04/2021,"Nora Geffcock",Nashville,Tennessee,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,5,55,11
+297,1982,28/02/2021,"Nora Geffcock",Nashville,Tennessee,DS305,3,Drones,DS,"DTI-84 Drone",3,6,2730,455
+300,1802,24/01/2021,"Katherine Icom",Troy,Michigan,TV810,7,"Training Videos",TV,"Understanding Automation",7,2,88,44
+300,1469,10/11/2020,"Katherine Icom",Troy,Michigan,EB516,4,eBooks,EB,"RTF Drones",4,5,80,16
+302,1172,09/09/2020,"Lewie Roback",Madison,Wisconsin,EB509,4,eBooks,EB,"GPS Drones",4,3,57,19
+302,184,07/02/2020,"Lewie Roback",Madison,Wisconsin,EB504,4,eBooks,EB,"Cartesian Robots",4,4,48,12
+303,1435,01/11/2020,"Betsy Soal",Durham,"North Carolina",TV801,7,"Training Videos",TV,"Aerial Security",7,4,144,36
+303,455,04/04/2020,"Betsy Soal",Durham,"North Carolina",DK205,2,"Drone Kits",DK,BYOD-350,2,3,267,89
+303,121,24/01/2020,"Betsy Soal",Durham,"North Carolina",RK607,5,"Robot Kits",RK,BYOR-4005,5,5,1225,245
+304,1568,05/12/2020,"Arron Stannas","El Paso",Texas,DK207,2,"Drone Kits",DK,BYOD-400S,2,2,258,129
+305,1074,19/08/2020,"Corny Sowrah",Bronx,"New York",EB512,4,eBooks,EB,"Multi Rotor Drones",4,4,96,24
+306,1386,22/10/2020,"Berta Tuttle",Washington,"District of Columbia",EB520,4,eBooks,EB,"Understanding Arduino",4,3,51,17
+307,1984,01/03/2021,"Jock Spurett",Columbus,Georgia,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,3,111,37
+307,1226,19/09/2020,"Jock Spurett",Columbus,Georgia,TV811,7,"Training Videos",TV,"Understanding Drone Regulations",7,2,54,27
+308,1395,23/10/2020,"Babara Abrahamsson",Philadelphia,Pennsylvania,RK603,5,"Robot Kits",RK,BYOR-1500,5,5,945,189
+308,1161,07/09/2020,"Babara Abrahamsson",Philadelphia,Pennsylvania,RS707,6,Robots,RS,"RXW-9807 Robot",6,3,1797,599
+308,591,08/05/2020,"Babara Abrahamsson",Philadelphia,Pennsylvania,EB509,4,eBooks,EB,"GPS Drones",4,4,76,19
+309,2030,11/03/2021,"Hyman Melling",Chicago,Illinois,EB505,4,eBooks,EB,"Delivery Drones",4,3,42,14
+310,1414,27/10/2020,"Ardeen Matusevich",Paterson,"New Jersey",EB513,4,eBooks,EB,"Photograph Drones",4,6,84,14
+310,856,03/07/2020,"Ardeen Matusevich",Paterson,"New Jersey",TV813,7,"Training Videos",TV,"Virtual Reality Basics",7,3,87,29
+310,827,25/06/2020,"Ardeen Matusevich",Paterson,"New Jersey",BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,4,32,8
+312,1804,24/01/2021,"Timmy Toulch",Phoenix,Arizona,DS305,3,Drones,DS,"DTI-84 Drone",3,4,1820,455
+312,1164,08/09/2020,"Timmy Toulch",Phoenix,Arizona,TV807,7,"Training Videos",TV,"Open Source Code",7,3,96,32
+312,203,10/02/2020,"Timmy Toulch",Phoenix,Arizona,TV802,7,"Training Videos",TV,"AI for Educators",7,2,98,49
+313,1190,13/09/2020,"Nanny Olsson","Las Vegas",Nevada,EB513,4,eBooks,EB,"Photograph Drones",4,5,70,14
+314,1118,29/08/2020,"Morgen Meneer","Daytona Beach",Florida,EB511,4,eBooks,EB,"Helicopter Drones",4,1,20,20
+314,476,07/04/2020,"Morgen Meneer","Daytona Beach",Florida,EB507,4,eBooks,EB,"Drone Building Essentials",4,3,39,13
+316,1271,28/09/2020,"Richie Domoney",Raleigh,"North Carolina",TV804,7,"Training Videos",TV,"Drone Video Techniques",7,2,74,37
+319,2131,02/04/2021,"Hartwell Docwra",Denver,Colorado,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,5,60,12
+319,1115,28/08/2020,"Hartwell Docwra",Denver,Colorado,DS305,3,Drones,DS,"DTI-84 Drone",3,3,1365,455
+319,421,30/03/2020,"Hartwell Docwra",Denver,Colorado,TV806,7,"Training Videos",TV,"Mapping with Drones",7,2,98,49
+320,1794,22/01/2021,"Deck Riccardini",Decatur,Illinois,EB512,4,eBooks,EB,"Multi Rotor Drones",4,3,72,24
+321,486,10/04/2020,"Vicky Ilyinski","Oklahoma City",Oklahoma,EB511,4,eBooks,EB,"Helicopter Drones",4,4,80,20
+321,323,06/03/2020,"Vicky Ilyinski","Oklahoma City",Oklahoma,DK204,2,"Drone Kits",DK,BYOD-300,2,3,267,89
+322,1749,13/01/2021,"Cristian Barker","Saint Petersburg",Florida,RK607,5,"Robot Kits",RK,BYOR-4005,5,5,1225,245
+323,907,12/07/2020,"Alyda Lucchi",Houston,Texas,DS301,3,Drones,DS,"DA-SA702 Drone",3,2,798,399
+324,1530,24/11/2020,"Ken Vasyukov",Lafayette,Indiana,EB506,4,eBooks,EB,"Delta Robots",4,4,64,16
+325,741,04/06/2020,"Gonzalo Kitto",Wichita,Kansas,DK202,2,"Drone Kits",DK,BYOD-200,2,6,348,58
+326,760,09/06/2020,"Hort Treske",Sacramento,California,RS705,6,Robots,RS,"RQTE-554 Robot",6,6,4104,684
+327,803,20/06/2020,"Mersey Shrubsall",Louisville,Kentucky,DK203,2,"Drone Kits",DK,BYOD-220,2,4,276,69
+328,2065,19/03/2021,"Cesaro Niland",Toledo,Ohio,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,2,56,28
+329,2238,25/04/2021,"Jenda Wiley",Huntington,"West Virginia",BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,3,36,12
+329,1067,17/08/2020,"Jenda Wiley",Huntington,"West Virginia",DK202,2,"Drone Kits",DK,BYOD-200,2,5,290,58
+330,644,17/05/2020,"Wat Giacubo",Reno,Nevada,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,5,185,37
+331,1674,27/12/2020,"Tiena McGarry",Washington,"District of Columbia",DS306,3,Drones,DS,"DX-145 Drone",3,5,1250,250
+331,343,10/03/2020,"Tiena McGarry",Washington,"District of Columbia",RK604,5,"Robot Kits",RK,BYOR-2640S,5,4,756,189
+334,2267,02/05/2021,"Flinn Neate",Bakersfield,California,RK605,5,"Robot Kits",RK,BYOR-3000,5,5,1070,214
+334,1044,11/08/2020,"Flinn Neate",Bakersfield,California,DS301,3,Drones,DS,"DA-SA702 Drone",3,5,1995,399
+334,758,08/06/2020,"Flinn Neate",Bakersfield,California,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,6,24,4
+335,473,07/04/2020,"Clo Illwell",Tacoma,Washington,EB520,4,eBooks,EB,"Understanding Arduino",4,5,85,17
+336,2185,15/04/2021,"Jewel Prandoni","El Paso",Texas,DK208,2,"Drone Kits",DK,BYOD-500,2,4,668,167
+338,857,03/07/2020,"Silvano Twinterman",Atlanta,Georgia,DK201,2,"Drone Kits",DK,BYOD-100,2,6,324,54
+339,2278,04/05/2021,"Chase Watson",Omaha,Nebraska,DK206,2,"Drone Kits",DK,BYOD-400,2,3,357,119
+340,608,11/05/2020,"Raimundo Avard",Oakland,California,EB520,4,eBooks,EB,"Understanding Arduino",4,3,51,17
+340,263,21/02/2020,"Raimundo Avard",Oakland,California,TV801,7,"Training Videos",TV,"Aerial Security",7,3,108,36
+341,1313,08/10/2020,"Misti Vose",Boston,Massachusetts,EB504,4,eBooks,EB,"Cartesian Robots",4,2,24,12
+344,2297,07/05/2021,"Roselia Cullip",Seattle,Washington,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,5,185,37
+344,2115,30/03/2021,"Roselia Cullip",Seattle,Washington,EB503,4,eBooks,EB,"Building Your Own Drone",4,3,72,24
+344,1800,23/01/2021,"Roselia Cullip",Seattle,Washington,EB514,4,eBooks,EB,"Polar Robots",4,3,69,23
+344,743,05/06/2020,"Roselia Cullip",Seattle,Washington,RK607,5,"Robot Kits",RK,BYOR-4005,5,6,1470,245
+344,537,25/04/2020,"Roselia Cullip",Seattle,Washington,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,4,36,9
+345,472,07/04/2020,"Winona Crewe",Anchorage,Alaska,RK602,5,"Robot Kits",RK,BYOR-1000,5,5,945,189
+345,132,27/01/2020,"Winona Crewe",Anchorage,Alaska,EB503,4,eBooks,EB,"Building Your Own Drone",4,5,120,24
+346,1808,24/01/2021,"Daria Dodge","San Diego",California,RK605,5,"Robot Kits",RK,BYOR-3000,5,4,856,214
+347,1842,30/01/2021,"Brady Medeway","San Francisco",California,EB507,4,eBooks,EB,"Drone Building Essentials",4,4,52,13
+348,2360,20/05/2021,"Domenic Sinney",Jacksonville,Florida,RK603,5,"Robot Kits",RK,BYOR-1500,5,4,756,189
+349,2359,20/05/2021,"Cherilyn Chimenti",Albany,"New York",BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,3,33,11
+351,1705,03/01/2021,"Vitoria Kirkhouse",Boston,Massachusetts,TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,3,126,42
+351,980,29/07/2020,"Vitoria Kirkhouse",Boston,Massachusetts,RS707,6,Robots,RS,"RXW-9807 Robot",6,6,3594,599
+354,887,09/07/2020,"Perle Shellshear",Lafayette,Indiana,EB513,4,eBooks,EB,"Photograph Drones",4,4,56,14
+354,402,25/03/2020,"Perle Shellshear",Lafayette,Indiana,DS301,3,Drones,DS,"DA-SA702 Drone",3,2,798,399
+355,519,20/04/2020,"Cathi Tierney",Washington,"District of Columbia",EB509,4,eBooks,EB,"GPS Drones",4,3,57,19
+356,1588,08/12/2020,"Velma Haws",Sacramento,California,DK203,2,"Drone Kits",DK,BYOD-220,2,1,69,69
+356,1092,24/08/2020,"Velma Haws",Sacramento,California,RK604,5,"Robot Kits",RK,BYOR-2640S,5,3,567,189
+356,414,28/03/2020,"Velma Haws",Sacramento,California,DS306,3,Drones,DS,"DX-145 Drone",3,5,1250,250
+357,1334,12/10/2020,"Derril Durran",Macon,Georgia,DS305,3,Drones,DS,"DTI-84 Drone",3,3,1365,455
+358,1853,01/02/2021,"Ethelred Cleworth",Columbus,Ohio,DK204,2,"Drone Kits",DK,BYOD-300,2,3,267,89
+358,300,01/03/2020,"Ethelred Cleworth",Columbus,Ohio,RK603,5,"Robot Kits",RK,BYOR-1500,5,2,378,189
+359,1124,01/09/2020,"Quincey Gowland","Fort Smith",Arkansas,BP106,1,Blueprints,BP,"Hexacopter Drone Blueprint",1,4,32,8
+360,2198,18/04/2021,"Thatcher McQuillan","Pompano Beach",Florida,EB514,4,eBooks,EB,"Polar Robots",4,5,115,23
+360,1059,16/08/2020,"Thatcher McQuillan","Pompano Beach",Florida,EB517,4,eBooks,EB,"SCARA Robots",4,1,19,19
+361,1872,06/02/2021,"Morten Aspray",Minneapolis,Minnesota,TV803,7,"Training Videos",TV,"Cloud Computing",7,2,58,29
+361,837,28/06/2020,"Morten Aspray",Minneapolis,Minnesota,BP106,1,Blueprints,BP,"Hexacopter Drone Blueprint",1,3,24,8
+362,1299,05/10/2020,"Starr Conochie",Paterson,"New Jersey",DS301,3,Drones,DS,"DA-SA702 Drone",3,4,1596,399
+363,294,29/02/2020,"Anselm Broke","Los Angeles",California,EB518,4,eBooks,EB,"Single Rotor Drones",4,1,14,14
+366,60,12/01/2020,"Dayna Edgeler",Columbus,Ohio,RK606,5,"Robot Kits",RK,BYOR-3535,5,3,675,225
+367,1973,26/02/2021,"Eberto Chantree",Bakersfield,California,DS306,3,Drones,DS,"DX-145 Drone",3,6,1500,250
+368,2099,27/03/2021,"Sacha Camlin","Des Moines",Iowa,EB502,4,eBooks,EB,"Building Your First Robot",4,3,72,24
+368,1563,04/12/2020,"Sacha Camlin","Des Moines",Iowa,EB506,4,eBooks,EB,"Delta Robots",4,2,32,16
+368,1531,24/11/2020,"Sacha Camlin","Des Moines",Iowa,RS702,6,Robots,RS,"MICR-23K Robot",6,2,1798,899
+371,49,09/01/2020,"Nelia Tolussi","El Paso",Texas,EB513,4,eBooks,EB,"Photograph Drones",4,5,70,14
+372,550,29/04/2020,"Lanni Hyder",Oakland,California,TV806,7,"Training Videos",TV,"Mapping with Drones",7,3,147,49
+372,379,20/03/2020,"Lanni Hyder",Oakland,California,EB505,4,eBooks,EB,"Delivery Drones",4,3,42,14
+373,1378,20/10/2020,"Marcy Roderick","Saint Louis",Missouri,EB509,4,eBooks,EB,"GPS Drones",4,4,76,19
+373,492,12/04/2020,"Marcy Roderick","Saint Louis",Missouri,EB502,4,eBooks,EB,"Building Your First Robot",4,2,48,24
+375,1617,13/12/2020,"Darby Doram","Salt Lake City",Utah,EB519,4,eBooks,EB,"Spherical Robots",4,4,64,16
+377,1692,31/12/2020,"Gherardo Gerlts",Jamaica,"New York",EB509,4,eBooks,EB,"GPS Drones",4,4,76,19
+378,41,07/01/2020,"Hamlen Wimes",Miami,Florida,EB502,4,eBooks,EB,"Building Your First Robot",4,6,144,24
+379,1919,15/02/2021,"Alaster Chesnay","Battle Creek",Michigan,TV808,7,"Training Videos",TV,"Robotic Essentials",7,4,136,34
+379,1082,22/08/2020,"Alaster Chesnay","Battle Creek",Michigan,DK208,2,"Drone Kits",DK,BYOD-500,2,4,668,167
+380,816,23/06/2020,"Renato Wadeling",Lexington,Kentucky,DK208,2,"Drone Kits",DK,BYOD-500,2,3,501,167
+380,359,15/03/2020,"Renato Wadeling",Lexington,Kentucky,EB514,4,eBooks,EB,"Polar Robots",4,1,23,23
+382,2330,14/05/2021,"Vivian Andretti",Reading,Pennsylvania,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,4,48,12
+382,992,31/07/2020,"Vivian Andretti",Reading,Pennsylvania,TV806,7,"Training Videos",TV,"Mapping with Drones",7,2,98,49
+385,1839,30/01/2021,"Cathlene Bayless",Charleston,"West Virginia",DK209,2,"Drone Kits",DK,BYOD-550,2,2,358,179
+385,469,07/04/2020,"Cathlene Bayless",Charleston,"West Virginia",BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,5,60,12
+387,1866,05/02/2021,"Nissie McSperron","Los Angeles",California,DK208,2,"Drone Kits",DK,BYOD-500,2,5,835,167
+387,1411,27/10/2020,"Nissie McSperron","Los Angeles",California,RS703,6,Robots,RS,"RCB-889 Robot",6,3,1647,549
+389,1956,23/02/2021,"Micheil Woodford",Brooklyn,"New York",EB514,4,eBooks,EB,"Polar Robots",4,4,92,23
+391,1245,23/09/2020,"Anitra Colenutt",Cleveland,Ohio,TV803,7,"Training Videos",TV,"Cloud Computing",7,3,87,29
+394,2006,05/03/2021,"Olivero Hinckes",Rochester,"New York",TV807,7,"Training Videos",TV,"Open Source Code",7,3,96,32
+397,913,13/07/2020,"Dorian Softley",Toledo,Ohio,TV807,7,"Training Videos",TV,"Open Source Code",7,4,128,32
+398,1867,05/02/2021,"Carma Threlfall",Irvine,California,DS302,3,Drones,DS,"DC-304 Drone",3,4,1580,395
+398,1695,01/01/2021,"Carma Threlfall",Irvine,California,EB512,4,eBooks,EB,"Multi Rotor Drones",4,5,120,24
+399,2304,10/05/2021,"Johanna Massei",Waterbury,Connecticut,DK206,2,"Drone Kits",DK,BYOD-400,2,3,357,119
+399,1915,14/02/2021,"Johanna Massei",Waterbury,Connecticut,RK607,5,"Robot Kits",RK,BYOR-4005,5,5,1225,245
+400,619,13/05/2020,"Grant Scandrett",Lexington,Kentucky,TV807,7,"Training Videos",TV,"Open Source Code",7,4,128,32
+400,435,01/04/2020,"Grant Scandrett",Lexington,Kentucky,DS307,3,Drones,DS,"MICR-564K Drone",3,5,2495,499
+401,1791,22/01/2021,"Kiri MacTeague",Houston,Texas,TV806,7,"Training Videos",TV,"Mapping with Drones",7,3,147,49
+402,1779,18/01/2021,"Kennith McCulley",Jackson,Mississippi,RK607,5,"Robot Kits",RK,BYOR-4005,5,2,490,245
+403,467,06/04/2020,"Atalanta Iveans",Springfield,Illinois,EB519,4,eBooks,EB,"Spherical Robots",4,4,64,16
+404,1962,24/02/2021,"Ajay Hardy",Madison,Wisconsin,DS301,3,Drones,DS,"DA-SA702 Drone",3,5,1995,399
+404,1137,02/09/2020,"Ajay Hardy",Madison,Wisconsin,TV806,7,"Training Videos",TV,"Mapping with Drones",7,3,147,49
+404,315,03/03/2020,"Ajay Hardy",Madison,Wisconsin,RS702,6,Robots,RS,"MICR-23K Robot",6,1,899,899
+405,2162,10/04/2021,"Janeta Stein","Silver Spring",Maryland,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,5,55,11
+406,1348,14/10/2020,"Justus Hamblington",Macon,Georgia,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,5,60,12
+406,942,20/07/2020,"Justus Hamblington",Macon,Georgia,DS301,3,Drones,DS,"DA-SA702 Drone",3,3,1197,399
+406,705,29/05/2020,"Justus Hamblington",Macon,Georgia,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,3,111,37
+406,429,01/04/2020,"Justus Hamblington",Macon,Georgia,DK207,2,"Drone Kits",DK,BYOD-400S,2,1,129,129
+411,1787,21/01/2021,"Torrin West",Mobile,Alabama,EB519,4,eBooks,EB,"Spherical Robots",4,1,16,16
+411,1747,13/01/2021,"Torrin West",Mobile,Alabama,BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,3,24,8
+412,2226,23/04/2021,"Annaliese Sheeres","Saint Louis",Missouri,DK206,2,"Drone Kits",DK,BYOD-400,2,4,476,119
+414,711,30/05/2020,"Hanny Goslin","San Jose",California,DK205,2,"Drone Kits",DK,BYOD-350,2,4,356,89
+415,425,31/03/2020,"Jacquie Gethins",Boston,Massachusetts,EB514,4,eBooks,EB,"Polar Robots",4,2,46,23
+416,1143,03/09/2020,"Kary Pedro",Dallas,Texas,DS307,3,Drones,DS,"MICR-564K Drone",3,6,2994,499
+418,894,10/07/2020,"Annette Eddisford",Tallahassee,Florida,DK209,2,"Drone Kits",DK,BYOD-550,2,5,895,179
+420,2325,14/05/2021,"Brigham Kemet",Chicago,Illinois,TV801,7,"Training Videos",TV,"Aerial Security",7,2,72,36
+420,1102,25/08/2020,"Brigham Kemet",Chicago,Illinois,DK204,2,"Drone Kits",DK,BYOD-300,2,5,445,89
+420,420,29/03/2020,"Brigham Kemet",Chicago,Illinois,TV810,7,"Training Videos",TV,"Understanding Automation",7,4,176,44
+421,2042,14/03/2021,"Emanuel Zanutti","El Paso",Texas,TV810,7,"Training Videos",TV,"Understanding Automation",7,3,132,44
+422,1210,17/09/2020,"Lucita Lesper","Des Moines",Iowa,RS704,6,Robots,RS,"RLK-9920 Robot",6,2,1398,699
+422,764,09/06/2020,"Lucita Lesper","Des Moines",Iowa,TV808,7,"Training Videos",TV,"Robotic Essentials",7,4,136,34
+422,541,25/04/2020,"Lucita Lesper","Des Moines",Iowa,RS707,6,Robots,RS,"RXW-9807 Robot",6,3,1797,599
+422,240,17/02/2020,"Lucita Lesper","Des Moines",Iowa,EB511,4,eBooks,EB,"Helicopter Drones",4,4,80,20
+422,5,01/01/2020,"Lucita Lesper","Des Moines",Iowa,EB517,4,eBooks,EB,"SCARA Robots",4,5,95,19
+423,1658,23/12/2020,"Em Blackader",Stockton,California,EB501,4,eBooks,EB,"Articulated Robots",4,5,115,23
+423,523,21/04/2020,"Em Blackader",Stockton,California,RK603,5,"Robot Kits",RK,BYOR-1500,5,1,189,189
+423,306,02/03/2020,"Em Blackader",Stockton,California,DK202,2,"Drone Kits",DK,BYOD-200,2,2,116,58
+424,2147,07/04/2021,"Golda Leverington",Topeka,Kansas,DK201,2,"Drone Kits",DK,BYOD-100,2,4,216,54
+426,1816,25/01/2021,"Christen Loins","Oklahoma City",Oklahoma,EB508,4,eBooks,EB,"Fixed Wing Drones",4,6,90,15
+426,1298,04/10/2020,"Christen Loins","Oklahoma City",Oklahoma,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,4,48,12
+426,344,11/03/2020,"Christen Loins","Oklahoma City",Oklahoma,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,4,28,7
+426,37,07/01/2020,"Christen Loins","Oklahoma City",Oklahoma,RK605,5,"Robot Kits",RK,BYOR-3000,5,4,856,214
+428,1448,04/11/2020,"Granville Conti","Salt Lake City",Utah,TV803,7,"Training Videos",TV,"Cloud Computing",7,5,145,29
+428,1410,26/10/2020,"Granville Conti","Salt Lake City",Utah,EB508,4,eBooks,EB,"Fixed Wing Drones",4,3,45,15
+429,1062,17/08/2020,"Gerard Boutell",Woburn,Massachusetts,RS705,6,Robots,RS,"RQTE-554 Robot",6,4,2736,684
+430,2376,25/05/2021,"Jobye Dobbinson",Odessa,Texas,DK203,2,"Drone Kits",DK,BYOD-220,2,3,207,69
+430,916,13/07/2020,"Jobye Dobbinson",Odessa,Texas,TV802,7,"Training Videos",TV,"AI for Educators",7,3,147,49
+430,363,15/03/2020,"Jobye Dobbinson",Odessa,Texas,RK604,5,"Robot Kits",RK,BYOR-2640S,5,2,378,189
+430,90,21/01/2020,"Jobye Dobbinson",Odessa,Texas,EB504,4,eBooks,EB,"Cartesian Robots",4,2,24,12
+433,876,07/07/2020,"Allsun Hattersley",Omaha,Nebraska,DK204,2,"Drone Kits",DK,BYOD-300,2,6,534,89
+435,1343,14/10/2020,"Peterus Gaskal",Flushing,"New York",EB520,4,eBooks,EB,"Understanding Arduino",4,2,34,17
+435,30,06/01/2020,"Peterus Gaskal",Flushing,"New York",EB518,4,eBooks,EB,"Single Rotor Drones",4,6,84,14
+437,993,31/07/2020,"Rafael Richly","Miami Beach",Florida,DK205,2,"Drone Kits",DK,BYOD-350,2,4,356,89
+438,1552,01/12/2020,"Joelle Vollam","El Paso",Texas,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,2,38,19
+440,2112,29/03/2021,"Dorian Hakey",Norfolk,Virginia,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,2,14,7
+440,1253,25/09/2020,"Dorian Hakey",Norfolk,Virginia,EB516,4,eBooks,EB,"RTF Drones",4,1,16,16
+440,691,26/05/2020,"Dorian Hakey",Norfolk,Virginia,DK207,2,"Drone Kits",DK,BYOD-400S,2,5,645,129
+441,1646,22/12/2020,"Mia Walkden",Austin,Texas,TV810,7,"Training Videos",TV,"Understanding Automation",7,3,132,44
+445,2370,23/05/2021,"Leicester Staines",Modesto,California,RK605,5,"Robot Kits",RK,BYOR-3000,5,2,428,214
+445,374,18/03/2020,"Leicester Staines",Modesto,California,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,6,66,11
+446,1837,29/01/2021,"Jaquenetta Ginley",Dayton,Ohio,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,5,45,9
+446,871,06/07/2020,"Jaquenetta Ginley",Dayton,Ohio,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,4,76,19
+448,1103,26/08/2020,"Maud Kattenhorn","Apache Junction",Arizona,DS303,3,Drones,DS,"DTD-7000 Drone",3,5,2250,450
+449,2326,14/05/2021,"Chaim Artist",Columbia,Missouri,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,4,112,28
+449,503,16/04/2020,"Chaim Artist",Columbia,Missouri,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,5,60,12
+451,2250,28/04/2021,"Loutitia Cota",Oakland,California,RS707,6,Robots,RS,"RXW-9807 Robot",6,4,2396,599
+451,636,16/05/2020,"Loutitia Cota",Oakland,California,TV806,7,"Training Videos",TV,"Mapping with Drones",7,3,147,49
+451,148,31/01/2020,"Loutitia Cota",Oakland,California,TV803,7,"Training Videos",TV,"Cloud Computing",7,3,87,29
+452,2206,19/04/2021,"Harlen Phelan",Gastonia,"North Carolina",EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,2,38,19
+454,1634,19/12/2020,"Tobe Sailor","Las Vegas",Nevada,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,3,84,28
+454,690,26/05/2020,"Tobe Sailor","Las Vegas",Nevada,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,4,76,19
+454,189,08/02/2020,"Tobe Sailor","Las Vegas",Nevada,TV811,7,"Training Videos",TV,"Understanding Drone Regulations",7,5,135,27
+456,201,09/02/2020,"Velvet Blackwood",Atlanta,Georgia,RK602,5,"Robot Kits",RK,BYOR-1000,5,3,567,189
+459,89,20/01/2020,"Sidonia Maffy","San Luis Obispo",California,EB511,4,eBooks,EB,"Helicopter Drones",4,4,80,20
+460,1625,16/12/2020,"Shaun Souttar",Austin,Texas,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,3,12,4
+460,340,10/03/2020,"Shaun Souttar",Austin,Texas,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,1,37,37
+461,2317,12/05/2021,"Gratia Sowle",Evansville,Indiana,BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,4,32,8
+463,1766,16/01/2021,"Idell Dyson",Plano,Texas,BP106,1,Blueprints,BP,"Hexacopter Drone Blueprint",1,4,32,8
+463,818,23/06/2020,"Idell Dyson",Plano,Texas,RK603,5,"Robot Kits",RK,BYOR-1500,5,4,756,189
+465,2190,16/04/2021,"Germaine Farran",Boise,Idaho,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,5,140,28
+465,1238,22/09/2020,"Germaine Farran",Boise,Idaho,TV801,7,"Training Videos",TV,"Aerial Security",7,5,180,36
+465,1024,07/08/2020,"Germaine Farran",Boise,Idaho,EB501,4,eBooks,EB,"Articulated Robots",4,4,92,23
+470,1452,05/11/2020,"Angele Heeley",Springfield,Illinois,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,3,36,12
+470,923,15/07/2020,"Angele Heeley",Springfield,Illinois,BP109,1,Blueprints,BP,"QuadroCopter Blueprint",1,3,30,10
+471,2207,19/04/2021,"Torrie Coytes",Monticello,Minnesota,TV807,7,"Training Videos",TV,"Open Source Code",7,5,160,32
+471,704,29/05/2020,"Torrie Coytes",Monticello,Minnesota,TV808,7,"Training Videos",TV,"Robotic Essentials",7,3,102,34
+472,448,03/04/2020,"Aguste Olanda",Johnstown,Pennsylvania,DK209,2,"Drone Kits",DK,BYOD-550,2,4,716,179
+473,1685,30/12/2020,"Cher Poole",Baltimore,Maryland,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,3,12,4
+473,1429,30/10/2020,"Cher Poole",Baltimore,Maryland,DK204,2,"Drone Kits",DK,BYOD-300,2,4,356,89
+473,1401,24/10/2020,"Cher Poole",Baltimore,Maryland,RK602,5,"Robot Kits",RK,BYOR-1000,5,1,189,189
+473,1127,01/09/2020,"Cher Poole",Baltimore,Maryland,DK205,2,"Drone Kits",DK,BYOD-350,2,6,534,89
+475,1511,19/11/2020,"Gabriel Gallaher",Phoenix,Arizona,TV807,7,"Training Videos",TV,"Open Source Code",7,4,128,32
+475,1222,18/09/2020,"Gabriel Gallaher",Phoenix,Arizona,RS703,6,Robots,RS,"RCB-889 Robot",6,4,2196,549
+476,1291,02/10/2020,"Wilt Clampton",Nashville,Tennessee,DK204,2,"Drone Kits",DK,BYOD-300,2,2,178,89
+478,1227,19/09/2020,"Shell Huyghe",Biloxi,Mississippi,EB514,4,eBooks,EB,"Polar Robots",4,3,69,23
+479,693,26/05/2020,"Enrique Hynard",Hamilton,Ohio,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,3,33,11
+479,389,22/03/2020,"Enrique Hynard",Hamilton,Ohio,EB511,4,eBooks,EB,"Helicopter Drones",4,5,100,20
+480,456,04/04/2020,"Aridatha McEntagart","San Jose",California,EB513,4,eBooks,EB,"Photograph Drones",4,4,56,14
+481,2188,15/04/2021,"Bobbie Tomczynski",Minneapolis,Minnesota,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,1,11,11
+481,169,04/02/2020,"Bobbie Tomczynski",Minneapolis,Minnesota,RK603,5,"Robot Kits",RK,BYOR-1500,5,6,1134,189
+483,994,31/07/2020,"Karia Gladdolph",Decatur,Illinois,RK607,5,"Robot Kits",RK,BYOR-4005,5,3,735,245
+485,1283,30/09/2020,"Yvette Mayze",Ridgely,Maryland,EB501,4,eBooks,EB,"Articulated Robots",4,3,69,23
+485,1154,05/09/2020,"Yvette Mayze",Ridgely,Maryland,DK201,2,"Drone Kits",DK,BYOD-100,2,2,108,54
+485,834,27/06/2020,"Yvette Mayze",Ridgely,Maryland,DK206,2,"Drone Kits",DK,BYOD-400,2,4,476,119
+485,534,24/04/2020,"Yvette Mayze",Ridgely,Maryland,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,5,35,7
+486,2175,12/04/2021,"Giovanni Kirkhouse",Anchorage,Alaska,DS302,3,Drones,DS,"DC-304 Drone",3,3,1185,395
+486,1507,19/11/2020,"Giovanni Kirkhouse",Anchorage,Alaska,TV802,7,"Training Videos",TV,"AI for Educators",7,4,196,49
+488,2114,30/03/2021,"Bernadina Hoys",Rochester,"New York",DK202,2,"Drone Kits",DK,BYOD-200,2,3,174,58
+488,369,17/03/2020,"Bernadina Hoys",Rochester,"New York",TV806,7,"Training Videos",TV,"Mapping with Drones",7,5,245,49
+489,1054,15/08/2020,"Wynn Thom",Kent,Washington,RK604,5,"Robot Kits",RK,BYOR-2640S,5,4,756,189
+490,1578,06/12/2020,"Genni Coopey",Atlanta,Georgia,TV801,7,"Training Videos",TV,"Aerial Security",7,3,108,36
+492,524,21/04/2020,"Karalee MacCawley",Boise,Idaho,DS301,3,Drones,DS,"DA-SA702 Drone",3,3,1197,399
+493,532,24/04/2020,"Robby Dury",Milwaukee,Wisconsin,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,3,36,12
+494,1087,22/08/2020,"Ransom Arthars",Humble,Texas,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,5,60,12
+495,1490,17/11/2020,"Odelia Jamblin",Birmingham,Alabama,RK604,5,"Robot Kits",RK,BYOR-2640S,5,3,567,189
+496,1952,22/02/2021,"Carole Halliburton",Anchorage,Alaska,EB508,4,eBooks,EB,"Fixed Wing Drones",4,2,30,15
+496,175,05/02/2020,"Carole Halliburton",Anchorage,Alaska,RK605,5,"Robot Kits",RK,BYOR-3000,5,5,1070,214
+497,2347,17/05/2021,"Daron McGrorty",Elizabeth,"New Jersey",EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,5,95,19
+497,1145,04/09/2020,"Daron McGrorty",Elizabeth,"New Jersey",RS707,6,Robots,RS,"RXW-9807 Robot",6,5,2995,599
+497,265,24/02/2020,"Daron McGrorty",Elizabeth,"New Jersey",BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,2,22,11
+498,918,14/07/2020,"Rafaellle Blunsom",Dallas,Texas,EB503,4,eBooks,EB,"Building Your Own Drone",4,2,48,24
+499,1807,24/01/2021,"Bert Girardi","Bonita Springs",Florida,DS302,3,Drones,DS,"DC-304 Drone",3,5,1975,395
+499,988,30/07/2020,"Bert Girardi","Bonita Springs",Florida,BP109,1,Blueprints,BP,"QuadroCopter Blueprint",1,2,20,10
+500,1045,12/08/2020,"Ingamar Johanning","Kansas City",Kansas,EB504,4,eBooks,EB,"Cartesian Robots",4,2,24,12
+500,171,04/02/2020,"Ingamar Johanning","Kansas City",Kansas,BP109,1,Blueprints,BP,"QuadroCopter Blueprint",1,3,30,10
+502,1806,24/01/2021,"Josepha Seth",Houston,Texas,DS301,3,Drones,DS,"DA-SA702 Drone",3,2,798,399
+504,1841,30/01/2021,"Derrek Shalloo",Yakima,Washington,DK202,2,"Drone Kits",DK,BYOD-200,2,4,232,58
+504,1702,03/01/2021,"Derrek Shalloo",Yakima,Washington,RK605,5,"Robot Kits",RK,BYOR-3000,5,4,856,214
+504,999,02/08/2020,"Derrek Shalloo",Yakima,Washington,DK208,2,"Drone Kits",DK,BYOD-500,2,3,501,167
+505,2036,12/03/2021,"Cornela Bunnell",Memphis,Tennessee,BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,3,24,8
+505,566,04/05/2020,"Cornela Bunnell",Memphis,Tennessee,DS301,3,Drones,DS,"DA-SA702 Drone",3,2,798,399
+505,273,25/02/2020,"Cornela Bunnell",Memphis,Tennessee,EB520,4,eBooks,EB,"Understanding Arduino",4,3,51,17
+507,417,29/03/2020,"Sara-ann Westby",Berkeley,California,TV811,7,"Training Videos",TV,"Understanding Drone Regulations",7,1,27,27
+508,350,12/03/2020,"Deena Marrill",Irving,Texas,RK606,5,"Robot Kits",RK,BYOR-3535,5,2,450,225
+509,2161,10/04/2021,"Betta Armer",Midland,Texas,TV810,7,"Training Videos",TV,"Understanding Automation",7,4,176,44
+510,1456,07/11/2020,"Werner Spark",Reston,Virginia,DK205,2,"Drone Kits",DK,BYOD-350,2,6,534,89
+510,824,25/06/2020,"Werner Spark",Reston,Virginia,RS702,6,Robots,RS,"MICR-23K Robot",6,4,3596,899
+510,188,07/02/2020,"Werner Spark",Reston,Virginia,DS307,3,Drones,DS,"MICR-564K Drone",3,5,2495,499
+511,2222,22/04/2021,"Rona Kunisch","San Francisco",California,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,2,24,12
+513,784,16/06/2020,"Kacey Meeus",Erie,Pennsylvania,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,3,84,28
+514,731,02/06/2020,"Hoyt Stainfield",Memphis,Tennessee,RS702,6,Robots,RS,"MICR-23K Robot",6,1,899,899
+517,707,30/05/2020,"Deborah Hachette",Madison,Wisconsin,EB503,4,eBooks,EB,"Building Your Own Drone",4,2,48,24
+517,681,24/05/2020,"Deborah Hachette",Madison,Wisconsin,DK205,2,"Drone Kits",DK,BYOD-350,2,2,178,89
+520,2018,07/03/2021,"Krystyna Coyte",Philadelphia,Pennsylvania,DS305,3,Drones,DS,"DTI-84 Drone",3,3,1365,455
+520,1572,05/12/2020,"Krystyna Coyte",Philadelphia,Pennsylvania,EB512,4,eBooks,EB,"Multi Rotor Drones",4,3,72,24
+520,603,09/05/2020,"Krystyna Coyte",Philadelphia,Pennsylvania,RK605,5,"Robot Kits",RK,BYOR-3000,5,5,1070,214
+521,1768,16/01/2021,"Quint Rozalski",Morgantown,"West Virginia",RS707,6,Robots,RS,"RXW-9807 Robot",6,1,599,599
+521,1544,28/11/2020,"Quint Rozalski",Morgantown,"West Virginia",TV801,7,"Training Videos",TV,"Aerial Security",7,5,180,36
+522,1113,28/08/2020,"Patricia Sherrott",Newark,Delaware,RS707,6,Robots,RS,"RXW-9807 Robot",6,3,1797,599
+522,683,24/05/2020,"Patricia Sherrott",Newark,Delaware,RS703,6,Robots,RS,"RCB-889 Robot",6,2,1098,549
+522,291,28/02/2020,"Patricia Sherrott",Newark,Delaware,EB519,4,eBooks,EB,"Spherical Robots",4,4,64,16
+522,80,18/01/2020,"Patricia Sherrott",Newark,Delaware,BP109,1,Blueprints,BP,"QuadroCopter Blueprint",1,2,20,10
+523,1759,15/01/2021,"Janaye Liddle",Lexington,Kentucky,TV802,7,"Training Videos",TV,"AI for Educators",7,4,196,49
+523,840,29/06/2020,"Janaye Liddle",Lexington,Kentucky,RK602,5,"Robot Kits",RK,BYOR-1000,5,4,756,189
+524,2361,21/05/2021,"Nigel Kittel",Greensboro,"North Carolina",BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,2,14,7
+525,535,25/04/2020,"Jimmie Gell",Sacramento,California,EB504,4,eBooks,EB,"Cartesian Robots",4,3,36,12
+530,518,20/04/2020,"Horatio Burd",Brooklyn,"New York",EB511,4,eBooks,EB,"Helicopter Drones",4,4,80,20
+534,1320,10/10/2020,"Winni Denmead","New Orleans",Louisiana,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,2,18,9
+534,514,18/04/2020,"Winni Denmead","New Orleans",Louisiana,EB502,4,eBooks,EB,"Building Your First Robot",4,3,72,24
+535,1809,24/01/2021,"Carie Lowth","New York City","New York",DK202,2,"Drone Kits",DK,BYOD-200,2,5,290,58
+535,157,01/02/2020,"Carie Lowth","New York City","New York",EB520,4,eBooks,EB,"Understanding Arduino",4,4,68,17
+537,1811,24/01/2021,"Nissa Lyptrade","El Paso",Texas,DK204,2,"Drone Kits",DK,BYOD-300,2,2,178,89
+538,1367,18/10/2020,"Joly Avann",Lakeland,Florida,RK607,5,"Robot Kits",RK,BYOR-4005,5,4,980,245
+538,883,08/07/2020,"Joly Avann",Lakeland,Florida,EB503,4,eBooks,EB,"Building Your Own Drone",4,3,72,24
+542,1090,24/08/2020,"Berkie Jentges",Buffalo,"New York",DK201,2,"Drone Kits",DK,BYOD-100,2,4,216,54
+543,588,08/05/2020,"Mikol Yitzhak",Philadelphia,Pennsylvania,BP109,1,Blueprints,BP,"QuadroCopter Blueprint",1,5,50,10
+544,513,18/04/2020,"Jodi Dallison","New Orleans",Louisiana,TV802,7,"Training Videos",TV,"AI for Educators",7,3,147,49
+545,2283,04/05/2021,"Tessa Charette",Akron,Ohio,TV801,7,"Training Videos",TV,"Aerial Security",7,3,108,36
+545,1088,22/08/2020,"Tessa Charette",Akron,Ohio,EB518,4,eBooks,EB,"Single Rotor Drones",4,5,70,14
+545,583,07/05/2020,"Tessa Charette",Akron,Ohio,DK203,2,"Drone Kits",DK,BYOD-220,2,2,138,69
+548,1604,11/12/2020,"Elaina Jobey","South Bend",Indiana,RS703,6,Robots,RS,"RCB-889 Robot",6,2,1098,549
+549,2254,30/04/2021,"Lurline Fannin",Fairfax,Virginia,DK204,2,"Drone Kits",DK,BYOD-300,2,2,178,89
+549,1662,24/12/2020,"Lurline Fannin",Fairfax,Virginia,RK603,5,"Robot Kits",RK,BYOR-1500,5,3,567,189
+550,1257,25/09/2020,"Sallyann Revington",Tuscaloosa,Alabama,TV801,7,"Training Videos",TV,"Aerial Security",7,4,144,36
+551,508,17/04/2020,"Amabelle Kleinmintz",Littleton,Colorado,TV810,7,"Training Videos",TV,"Understanding Automation",7,3,132,44
+551,398,24/03/2020,"Amabelle Kleinmintz",Littleton,Colorado,TV807,7,"Training Videos",TV,"Open Source Code",7,4,128,32
+551,112,23/01/2020,"Amabelle Kleinmintz",Littleton,Colorado,EB504,4,eBooks,EB,"Cartesian Robots",4,4,48,12
+553,433,01/04/2020,"Benedetta Colly",Pensacola,Florida,EB518,4,eBooks,EB,"Single Rotor Drones",4,1,14,14
+555,1330,11/10/2020,"Berna MacDermott",Muncie,Indiana,DK204,2,"Drone Kits",DK,BYOD-300,2,5,445,89
+556,1883,08/02/2021,"Robinet Attenbrow",Aurora,Colorado,DK206,2,"Drone Kits",DK,BYOD-400,2,3,357,119
+558,1567,05/12/2020,"Nikos Pulteneye",Flint,Michigan,EB514,4,eBooks,EB,"Polar Robots",4,5,115,23
+559,1565,04/12/2020,"Ignacius Belchem",Dayton,Ohio,DK209,2,"Drone Kits",DK,BYOD-550,2,5,895,179
+559,1319,09/10/2020,"Ignacius Belchem",Dayton,Ohio,TV805,7,"Training Videos",TV,"Industrial 3D Printing",7,4,196,49
+559,1071,18/08/2020,"Ignacius Belchem",Dayton,Ohio,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,5,20,4
+560,229,15/02/2020,"Betty Hargerie",Phoenix,Arizona,DK208,2,"Drone Kits",DK,BYOD-500,2,2,334,167
+561,2159,09/04/2021,"Malissia Lilloe","Fort Wayne",Indiana,TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,4,168,42
+562,451,03/04/2020,"Kendell Delleschi",Columbus,Georgia,DS305,3,Drones,DS,"DTI-84 Drone",3,5,2275,455
+565,666,21/05/2020,"Sim Bowler","El Paso",Texas,RS703,6,Robots,RS,"RCB-889 Robot",6,2,1098,549
+566,1526,23/11/2020,"Gavan Mackie",Palmdale,California,RK605,5,"Robot Kits",RK,BYOR-3000,5,5,1070,214
+567,1972,26/02/2021,"Torrin Hails","Saint Louis",Missouri,EB518,4,eBooks,EB,"Single Rotor Drones",4,3,42,14
+568,150,31/01/2020,"Elwin Yakobovicz",Madison,Wisconsin,DS303,3,Drones,DS,"DTD-7000 Drone",3,2,900,450
+569,1246,23/09/2020,"Persis Christer",Abilene,Texas,RS704,6,Robots,RS,"RLK-9920 Robot",6,3,2097,699
+571,2323,13/05/2021,"Zonnya Machon","Hot Springs National Park",Arkansas,EB516,4,eBooks,EB,"RTF Drones",4,1,16,16
+571,1927,16/02/2021,"Zonnya Machon","Hot Springs National Park",Arkansas,TV811,7,"Training Videos",TV,"Understanding Drone Regulations",7,2,54,27
+572,1247,23/09/2020,"Gabriel Polini",Garland,Texas,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,3,36,12
+574,1149,04/09/2020,"Bealle Ferrolli",Charleston,"South Carolina",EB504,4,eBooks,EB,"Cartesian Robots",4,2,24,12
+575,995,31/07/2020,"Roby Gilbey",Manassas,Virginia,RS704,6,Robots,RS,"RLK-9920 Robot",6,5,3495,699
+575,968,25/07/2020,"Roby Gilbey",Manassas,Virginia,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,5,55,11
+576,1838,29/01/2021,"Debor Agronski",Clearwater,Florida,EB501,4,eBooks,EB,"Articulated Robots",4,6,138,23
+576,971,26/07/2020,"Debor Agronski",Clearwater,Florida,DS302,3,Drones,DS,"DC-304 Drone",3,6,2370,395
+579,2127,02/04/2021,"Gabi Haet",Seattle,Washington,DS305,3,Drones,DS,"DTI-84 Drone",3,5,2275,455
+579,1847,31/01/2021,"Gabi Haet",Seattle,Washington,EB504,4,eBooks,EB,"Cartesian Robots",4,4,48,12
+579,1293,02/10/2020,"Gabi Haet",Seattle,Washington,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,3,21,7
+580,1192,13/09/2020,"Staci Zollner","San Diego",California,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,2,74,37
+580,288,27/02/2020,"Staci Zollner","San Diego",California,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,4,148,37
+581,872,06/07/2020,"Livvy Arthey",Louisville,Kentucky,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,3,750,250
+582,678,23/05/2020,"Nancie Motherwell",Atlanta,Georgia,DS306,3,Drones,DS,"DX-145 Drone",3,4,1000,250
+584,578,06/05/2020,"Byran Bowering",Brooklyn,"New York",BP109,1,Blueprints,BP,"QuadroCopter Blueprint",1,1,10,10
+587,752,07/06/2020,"Myrlene Knyvett","Shawnee Mission",Kansas,RS706,6,Robots,RS,"RWW-75 Robot",6,3,2649,883
+587,44,08/01/2020,"Myrlene Knyvett","Shawnee Mission",Kansas,RK602,5,"Robot Kits",RK,BYOR-1000,5,1,189,189
+588,1951,22/02/2021,"Thurstan Pulfer","New Orleans",Louisiana,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,4,76,19
+590,627,14/05/2020,"Georgena Brettle",Washington,"District of Columbia",RK605,5,"Robot Kits",RK,BYOR-3000,5,2,428,214
+591,2247,28/04/2021,"Zorah Sarrell",Charlotte,"North Carolina",DK207,2,"Drone Kits",DK,BYOD-400S,2,1,129,129
+591,2133,02/04/2021,"Zorah Sarrell",Charlotte,"North Carolina",EB505,4,eBooks,EB,"Delivery Drones",4,3,42,14
+591,977,28/07/2020,"Zorah Sarrell",Charlotte,"North Carolina",EB519,4,eBooks,EB,"Spherical Robots",4,5,80,16
+593,2011,07/03/2021,"Nevil Webberley",Washington,"District of Columbia",BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,4,48,12
+594,1745,13/01/2021,"Orelia Diter",Tallahassee,Florida,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,5,60,12
+595,698,28/05/2020,"Dorian Henlon",Denver,Colorado,RK602,5,"Robot Kits",RK,BYOR-1000,5,3,567,189
+599,1272,29/09/2020,"Ricky Hutchin",Washington,"District of Columbia",EB511,4,eBooks,EB,"Helicopter Drones",4,4,80,20
+599,295,29/02/2020,"Ricky Hutchin",Washington,"District of Columbia",RS703,6,Robots,RS,"RCB-889 Robot",6,5,2745,549
+600,606,10/05/2020,"Catlaina Renon",Miami,Florida,EB519,4,eBooks,EB,"Spherical Robots",4,3,48,16
+601,1868,06/02/2021,"Winnie Mizzen",Youngstown,Ohio,EB506,4,eBooks,EB,"Delta Robots",4,2,32,16
+601,1084,22/08/2020,"Winnie Mizzen",Youngstown,Ohio,EB506,4,eBooks,EB,"Delta Robots",4,3,48,16
+602,1306,06/10/2020,"Siffre Hellcat",Fresno,California,RS702,6,Robots,RS,"MICR-23K Robot",6,4,3596,899
+602,1128,01/09/2020,"Siffre Hellcat",Fresno,California,EB509,4,eBooks,EB,"GPS Drones",4,2,38,19
+603,1926,16/02/2021,"Merci Anning",Wilmington,Delaware,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,3,36,12
+603,1188,12/09/2020,"Merci Anning",Wilmington,Delaware,EB509,4,eBooks,EB,"GPS Drones",4,2,38,19
+603,966,24/07/2020,"Merci Anning",Wilmington,Delaware,EB508,4,eBooks,EB,"Fixed Wing Drones",4,2,30,15
+604,1231,21/09/2020,"Gale Gallen","San Antonio",Texas,EB503,4,eBooks,EB,"Building Your Own Drone",4,2,48,24
+604,166,03/02/2020,"Gale Gallen","San Antonio",Texas,DK202,2,"Drone Kits",DK,BYOD-200,2,2,116,58
+605,1256,25/09/2020,"Armin Measen",Newark,"New Jersey",EB513,4,eBooks,EB,"Photograph Drones",4,4,56,14
+606,2174,12/04/2021,"Ashlee Ghiron",Charleston,"West Virginia",EB518,4,eBooks,EB,"Single Rotor Drones",4,6,84,14
+606,77,17/01/2020,"Ashlee Ghiron",Charleston,"West Virginia",RK605,5,"Robot Kits",RK,BYOR-3000,5,3,642,214
+607,1810,24/01/2021,"Louisette Ditch",Beaufort,"South Carolina",EB513,4,eBooks,EB,"Photograph Drones",4,4,56,14
+607,281,26/02/2020,"Louisette Ditch",Beaufort,"South Carolina",EB512,4,eBooks,EB,"Multi Rotor Drones",4,3,72,24
+608,2374,24/05/2021,"Martainn Alenichicov","Lake Worth",Florida,EB517,4,eBooks,EB,"SCARA Robots",4,5,95,19
+609,1230,20/09/2020,"Tannie Warlock",Youngstown,Ohio,TV805,7,"Training Videos",TV,"Industrial 3D Printing",7,5,245,49
+610,2212,20/04/2021,"Bliss Cordoba",Washington,"District of Columbia",DK207,2,"Drone Kits",DK,BYOD-400S,2,4,516,129
+611,2362,21/05/2021,"Andra Faucett",Indianapolis,Indiana,EB507,4,eBooks,EB,"Drone Building Essentials",4,4,52,13
+613,1860,03/02/2021,"Cristen Elles","San Diego",California,EB503,4,eBooks,EB,"Building Your Own Drone",4,4,96,24
+613,1377,20/10/2020,"Cristen Elles","San Diego",California,TV810,7,"Training Videos",TV,"Understanding Automation",7,3,132,44
+614,1450,04/11/2020,"Munmro Betke",Garland,Texas,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,4,76,19
+614,1363,17/10/2020,"Munmro Betke",Garland,Texas,TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,3,126,42
+614,933,18/07/2020,"Munmro Betke",Garland,Texas,TV813,7,"Training Videos",TV,"Virtual Reality Basics",7,3,87,29
+615,2000,04/03/2021,"Zora Rossetti",Washington,"District of Columbia",EB506,4,eBooks,EB,"Delta Robots",4,4,64,16
+615,1217,18/09/2020,"Zora Rossetti",Washington,"District of Columbia",EB512,4,eBooks,EB,"Multi Rotor Drones",4,4,96,24
+616,901,11/07/2020,"Alford Roddy","Grand Rapids",Michigan,DS307,3,Drones,DS,"MICR-564K Drone",3,3,1497,499
+617,1846,31/01/2021,"Dennet Burniston",Evansville,Indiana,EB518,4,eBooks,EB,"Single Rotor Drones",4,3,42,14
+618,1295,04/10/2020,"Lonnie Shera",Knoxville,Tennessee,TV810,7,"Training Videos",TV,"Understanding Automation",7,4,176,44
+619,2050,15/03/2021,"Sharyl Brando","San Diego",California,TV808,7,"Training Videos",TV,"Robotic Essentials",7,3,102,34
+619,1756,14/01/2021,"Sharyl Brando","San Diego",California,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,2,18,9
+619,1581,07/12/2020,"Sharyl Brando","San Diego",California,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,4,36,9
+620,1897,11/02/2021,"Silvano Instrell",Norwalk,Connecticut,EB511,4,eBooks,EB,"Helicopter Drones",4,2,40,20
+620,1039,10/08/2020,"Silvano Instrell",Norwalk,Connecticut,DK207,2,"Drone Kits",DK,BYOD-400S,2,2,258,129
+621,1276,29/09/2020,"Brinna Abramovitz","Sioux Falls","South Dakota",TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,6,252,42
+624,2130,02/04/2021,"Davy Dunsmore",Knoxville,Tennessee,EB503,4,eBooks,EB,"Building Your Own Drone",4,4,96,24
+624,1427,30/10/2020,"Davy Dunsmore",Knoxville,Tennessee,TV808,7,"Training Videos",TV,"Robotic Essentials",7,3,102,34
+624,1126,01/09/2020,"Davy Dunsmore",Knoxville,Tennessee,EB504,4,eBooks,EB,"Cartesian Robots",4,3,36,12
+626,843,30/06/2020,"Davie Ewbanks",Scranton,Pennsylvania,RS706,6,Robots,RS,"RWW-75 Robot",6,5,4415,883
+626,768,10/06/2020,"Davie Ewbanks",Scranton,Pennsylvania,TV803,7,"Training Videos",TV,"Cloud Computing",7,4,116,29
+628,1936,18/02/2021,"Carlie Pala",Davenport,Iowa,RK607,5,"Robot Kits",RK,BYOR-4005,5,3,735,245
+628,1901,12/02/2021,"Carlie Pala",Davenport,Iowa,EB517,4,eBooks,EB,"SCARA Robots",4,5,95,19
+628,1686,30/12/2020,"Carlie Pala",Davenport,Iowa,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,3,57,19
+628,852,02/07/2020,"Carlie Pala",Davenport,Iowa,TV805,7,"Training Videos",TV,"Industrial 3D Printing",7,5,245,49
+628,65,14/01/2020,"Carlie Pala",Davenport,Iowa,TV805,7,"Training Videos",TV,"Industrial 3D Printing",7,5,245,49
+630,408,27/03/2020,"Phyllis Lafranconi",Petaluma,California,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,2,22,11
+631,1508,19/11/2020,"Brear Barthod","Long Beach",California,RS702,6,Robots,RS,"MICR-23K Robot",6,2,1798,899
+631,1354,15/10/2020,"Brear Barthod","Long Beach",California,DK204,2,"Drone Kits",DK,BYOD-300,2,2,178,89
+631,465,06/04/2020,"Brear Barthod","Long Beach",California,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,6,24,4
+633,605,10/05/2020,"Burnard Stichel",Garland,Texas,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,2,74,37
+633,242,18/02/2020,"Burnard Stichel",Garland,Texas,EB502,4,eBooks,EB,"Building Your First Robot",4,4,96,24
+634,2320,13/05/2021,"Ange Kieran",Birmingham,Alabama,DK203,2,"Drone Kits",DK,BYOD-220,2,2,138,69
+635,2062,18/03/2021,"Yehudi Sabathe",Huntington,"West Virginia",DS306,3,Drones,DS,"DX-145 Drone",3,2,500,250
+635,1499,17/11/2020,"Yehudi Sabathe",Huntington,"West Virginia",DS304,3,Drones,DS,"DTE-QFN20 Drone",3,5,1250,250
+635,757,08/06/2020,"Yehudi Sabathe",Huntington,"West Virginia",TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,2,84,42
+635,575,06/05/2020,"Yehudi Sabathe",Huntington,"West Virginia",BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,2,18,9
+635,430,01/04/2020,"Yehudi Sabathe",Huntington,"West Virginia",DK208,2,"Drone Kits",DK,BYOD-500,2,3,501,167
+636,1346,14/10/2020,"Marena Plewman",Schenectady,"New York",TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,6,168,28
+636,574,05/05/2020,"Marena Plewman",Schenectady,"New York",TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,3,126,42
+637,1468,10/11/2020,"Julieta Robbert",Evansville,Indiana,RK606,5,"Robot Kits",RK,BYOR-3535,5,2,450,225
+638,1680,28/12/2020,"Deina Kainz",Albany,"New York",DK202,2,"Drone Kits",DK,BYOD-200,2,6,348,58
+638,24,04/01/2020,"Deina Kainz",Albany,"New York",RS702,6,Robots,RS,"MICR-23K Robot",6,5,4495,899
+642,800,20/06/2020,"Bekki Mayhew",Arlington,Virginia,RK604,5,"Robot Kits",RK,BYOR-2640S,5,3,567,189
+643,2125,02/04/2021,"Yevette Harris",Louisville,Kentucky,RK605,5,"Robot Kits",RK,BYOR-3000,5,5,1070,214
+643,2035,12/03/2021,"Yevette Harris",Louisville,Kentucky,EB507,4,eBooks,EB,"Drone Building Essentials",4,3,39,13
+643,1614,13/12/2020,"Yevette Harris",Louisville,Kentucky,DS307,3,Drones,DS,"MICR-564K Drone",3,3,1497,499
+643,1169,09/09/2020,"Yevette Harris",Louisville,Kentucky,EB516,4,eBooks,EB,"RTF Drones",4,2,32,16
+643,826,25/06/2020,"Yevette Harris",Louisville,Kentucky,EB520,4,eBooks,EB,"Understanding Arduino",4,5,85,17
+645,159,02/02/2020,"Farah Brignall","El Paso",Texas,BP106,1,Blueprints,BP,"Hexacopter Drone Blueprint",1,5,40,8
+647,54,10/01/2020,"Lyn Lucken",Dallas,Texas,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,2,500,250
+648,1648,22/12/2020,"Betteanne Tullis",Houston,Texas,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,5,60,12
+648,943,20/07/2020,"Betteanne Tullis",Houston,Texas,EB507,4,eBooks,EB,"Drone Building Essentials",4,4,52,13
+651,825,25/06/2020,"Cordy Corder",Farmington,Michigan,DK205,2,"Drone Kits",DK,BYOD-350,2,5,445,89
+651,809,22/06/2020,"Cordy Corder",Farmington,Michigan,RK606,5,"Robot Kits",RK,BYOR-3535,5,6,1350,225
+652,949,21/07/2020,"Jack Dobby",Sacramento,California,EB505,4,eBooks,EB,"Delivery Drones",4,2,28,14
+653,286,26/02/2020,"Elianore Petegree",Spokane,Washington,EB508,4,eBooks,EB,"Fixed Wing Drones",4,2,30,15
+653,81,18/01/2020,"Elianore Petegree",Spokane,Washington,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,3,57,19
+654,946,21/07/2020,"Lily Holbury",Charlotte,"North Carolina",DK201,2,"Drone Kits",DK,BYOD-100,2,5,270,54
+655,1242,22/09/2020,"Leif Bleakley","Saint Louis",Missouri,DK202,2,"Drone Kits",DK,BYOD-200,2,4,232,58
+656,1812,24/01/2021,"Haroun Donaldson",Springfield,Illinois,EB501,4,eBooks,EB,"Articulated Robots",4,5,115,23
+656,624,14/05/2020,"Haroun Donaldson",Springfield,Illinois,RS704,6,Robots,RS,"RLK-9920 Robot",6,3,2097,699
+657,1232,21/09/2020,"Quincy Gors",Wilmington,Delaware,EB514,4,eBooks,EB,"Polar Robots",4,5,115,23
+658,701,28/05/2020,"Normie Shaw",Arlington,Virginia,TV801,7,"Training Videos",TV,"Aerial Security",7,5,180,36
+659,1566,04/12/2020,"Philipa Tomeo",Amarillo,Texas,TV808,7,"Training Videos",TV,"Robotic Essentials",7,5,170,34
+659,549,29/04/2020,"Philipa Tomeo",Amarillo,Texas,EB517,4,eBooks,EB,"SCARA Robots",4,2,38,19
+661,580,07/05/2020,"Zonda Poolman",Fargo,"North Dakota",DK208,2,"Drone Kits",DK,BYOD-500,2,5,835,167
+661,183,07/02/2020,"Zonda Poolman",Fargo,"North Dakota",EB503,4,eBooks,EB,"Building Your Own Drone",4,4,96,24
+666,1111,27/08/2020,"Swen Godsell",Charlotte,"North Carolina",DS301,3,Drones,DS,"DA-SA702 Drone",3,3,1197,399
+667,1403,25/10/2020,"Allyn Krollmann",Boston,Massachusetts,EB514,4,eBooks,EB,"Polar Robots",4,2,46,23
+668,2263,01/05/2021,"Kristofer Kneath","San Antonio",Texas,EB508,4,eBooks,EB,"Fixed Wing Drones",4,4,60,15
+669,848,01/07/2020,"Bathsheba Toothill",Houston,Texas,DS301,3,Drones,DS,"DA-SA702 Drone",3,6,2394,399
+669,822,25/06/2020,"Bathsheba Toothill",Houston,Texas,DK208,2,"Drone Kits",DK,BYOD-500,2,5,835,167
+670,361,15/03/2020,"Minny Possek",Flushing,"New York",BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,1,4,4
+671,1324,10/10/2020,"Netta Prowse","Little Rock",Arkansas,BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,4,32,8
+672,732,02/06/2020,"Glenine Bruniges","Winston Salem","North Carolina",DK202,2,"Drone Kits",DK,BYOD-200,2,2,116,58
+673,991,30/07/2020,"Duky Theodoris",Albany,"New York",DK207,2,"Drone Kits",DK,BYOD-400S,2,3,387,129
+674,984,29/07/2020,"Danyette Piatek",Rochester,"New York",TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,3,126,42
+675,366,16/03/2020,"Lucais Pettus","Saint Louis",Missouri,RS705,6,Robots,RS,"RQTE-554 Robot",6,3,2052,684
+677,1579,06/12/2020,"Dido Thomazet",Decatur,Georgia,TV802,7,"Training Videos",TV,"AI for Educators",7,4,196,49
+677,1373,19/10/2020,"Dido Thomazet",Decatur,Georgia,EB511,4,eBooks,EB,"Helicopter Drones",4,2,40,20
+677,922,14/07/2020,"Dido Thomazet",Decatur,Georgia,RK607,5,"Robot Kits",RK,BYOR-4005,5,3,735,245
+678,254,20/02/2020,"Christyna Ciobutaru",Charlotte,"North Carolina",DK204,2,"Drone Kits",DK,BYOD-300,2,4,356,89
+678,17,03/01/2020,"Christyna Ciobutaru",Charlotte,"North Carolina",RS702,6,Robots,RS,"MICR-23K Robot",6,2,1798,899
+679,2219,22/04/2021,"Starlene Klausen","Oklahoma City",Oklahoma,DS302,3,Drones,DS,"DC-304 Drone",3,4,1580,395
+679,928,17/07/2020,"Starlene Klausen","Oklahoma City",Oklahoma,BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,2,16,8
+680,278,25/02/2020,"Giacinta Semered",Washington,"District of Columbia",EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,1,19,19
+680,214,12/02/2020,"Giacinta Semered",Washington,"District of Columbia",DS305,3,Drones,DS,"DTI-84 Drone",3,1,455,455
+681,2158,09/04/2021,"Brunhilda Wailes","Los Angeles",California,RK603,5,"Robot Kits",RK,BYOR-1500,5,4,756,189
+681,92,21/01/2020,"Brunhilda Wailes","Los Angeles",California,RK602,5,"Robot Kits",RK,BYOR-1000,5,4,756,189
+682,407,27/03/2020,"Georgeanne Eaves",Hartford,Connecticut,TV813,7,"Training Videos",TV,"Virtual Reality Basics",7,3,87,29
+683,2195,17/04/2021,"Cornelle Van der Hoeven","El Paso",Texas,DK208,2,"Drone Kits",DK,BYOD-500,2,3,501,167
+683,1862,04/02/2021,"Cornelle Van der Hoeven","El Paso",Texas,RS705,6,Robots,RS,"RQTE-554 Robot",6,4,2736,684
+685,155,01/02/2020,"Benji Minkin",Fairbanks,Alaska,TV808,7,"Training Videos",TV,"Robotic Essentials",7,5,170,34
+686,378,19/03/2020,"Andee Ambrosi",Albany,"New York",DK208,2,"Drone Kits",DK,BYOD-500,2,4,668,167
+688,2349,18/05/2021,"Birk Foort",Philadelphia,Pennsylvania,DK204,2,"Drone Kits",DK,BYOD-300,2,2,178,89
+688,1971,26/02/2021,"Birk Foort",Philadelphia,Pennsylvania,EB507,4,eBooks,EB,"Drone Building Essentials",4,6,78,13
+688,1909,13/02/2021,"Birk Foort",Philadelphia,Pennsylvania,RK603,5,"Robot Kits",RK,BYOR-1500,5,2,378,189
+691,2236,24/04/2021,"Amargo Funcheon",Denver,Colorado,EB502,4,eBooks,EB,"Building Your First Robot",4,2,48,24
+695,1008,03/08/2020,"Hillyer Pead",Denver,Colorado,DS307,3,Drones,DS,"MICR-564K Drone",3,5,2495,499
+696,1534,25/11/2020,"Cordie Roseby",Orange,California,EB519,4,eBooks,EB,"Spherical Robots",4,4,64,16
+698,2120,01/04/2021,"Randal Slocomb",Appleton,Wisconsin,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,5,55,11
+698,1546,29/11/2020,"Randal Slocomb",Appleton,Wisconsin,DS303,3,Drones,DS,"DTD-7000 Drone",3,5,2250,450
+698,677,23/05/2020,"Randal Slocomb",Appleton,Wisconsin,TV802,7,"Training Videos",TV,"AI for Educators",7,1,49,49
+699,1481,15/11/2020,"Chet Seage","San Diego",California,RK603,5,"Robot Kits",RK,BYOR-1500,5,5,945,189
+699,799,19/06/2020,"Chet Seage","San Diego",California,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,6,72,12
+700,1744,12/01/2021,"Roobbie Dermot",Washington,"District of Columbia",RK606,5,"Robot Kits",RK,BYOR-3535,5,5,1125,225
+700,73,15/01/2020,"Roobbie Dermot",Washington,"District of Columbia",EB514,4,eBooks,EB,"Polar Robots",4,3,69,23
+703,1326,10/10/2020,"Flin Inkin",Waterbury,Connecticut,TV810,7,"Training Videos",TV,"Understanding Automation",7,4,176,44
+705,2111,29/03/2021,"Esmeralda McRory",Birmingham,Alabama,DK206,2,"Drone Kits",DK,BYOD-400,2,2,238,119
+705,293,28/02/2020,"Esmeralda McRory",Birmingham,Alabama,DS305,3,Drones,DS,"DTI-84 Drone",3,4,1820,455
+706,1885,08/02/2021,"Brnaby Waszczyk","San Antonio",Texas,EB511,4,eBooks,EB,"Helicopter Drones",4,3,60,20
+706,1485,16/11/2020,"Brnaby Waszczyk","San Antonio",Texas,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,3,84,28
+707,1106,26/08/2020,"Dionne Armytage",Riverside,California,EB519,4,eBooks,EB,"Spherical Robots",4,6,96,16
+707,173,05/02/2020,"Dionne Armytage",Riverside,California,EB512,4,eBooks,EB,"Multi Rotor Drones",4,3,72,24
+708,1786,21/01/2021,"Worth Fideler",Meridian,Mississippi,TV807,7,"Training Videos",TV,"Open Source Code",7,1,32,32
+708,865,05/07/2020,"Worth Fideler",Meridian,Mississippi,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,6,66,11
+710,1893,10/02/2021,"Edwina Byrd","Oklahoma City",Oklahoma,RS707,6,Robots,RS,"RXW-9807 Robot",6,2,1198,599
+710,786,16/06/2020,"Edwina Byrd","Oklahoma City",Oklahoma,RK602,5,"Robot Kits",RK,BYOR-1000,5,3,567,189
+710,635,16/05/2020,"Edwina Byrd","Oklahoma City",Oklahoma,DK209,2,"Drone Kits",DK,BYOD-550,2,5,895,179
+711,2057,17/03/2021,"Brittney Whiteman",Spokane,Washington,DK204,2,"Drone Kits",DK,BYOD-300,2,3,267,89
+711,1547,30/11/2020,"Brittney Whiteman",Spokane,Washington,DS307,3,Drones,DS,"MICR-564K Drone",3,6,2994,499
+711,1239,22/09/2020,"Brittney Whiteman",Spokane,Washington,EB508,4,eBooks,EB,"Fixed Wing Drones",4,5,75,15
+714,1224,19/09/2020,"Kennie Kington",Dallas,Texas,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,5,60,12
+714,904,11/07/2020,"Kennie Kington",Dallas,Texas,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,2,24,12
+715,1249,24/09/2020,"Marty Tokley",Baltimore,Maryland,RS702,6,Robots,RS,"MICR-23K Robot",6,2,1798,899
+717,906,12/07/2020,"Janek Yerborn",Bronx,"New York",DS301,3,Drones,DS,"DA-SA702 Drone",3,2,798,399
+717,618,13/05/2020,"Janek Yerborn",Bronx,"New York",DK201,2,"Drone Kits",DK,BYOD-100,2,3,162,54
+719,1726,08/01/2021,"Jobye Hambelton",Riverside,California,DS305,3,Drones,DS,"DTI-84 Drone",3,3,1365,455
+719,97,21/01/2020,"Jobye Hambelton",Riverside,California,DS301,3,Drones,DS,"DA-SA702 Drone",3,3,1197,399
+720,1011,04/08/2020,"Rhody Hankey","Saint Louis",Missouri,EB517,4,eBooks,EB,"SCARA Robots",4,4,76,19
+720,557,30/04/2020,"Rhody Hankey","Saint Louis",Missouri,EB517,4,eBooks,EB,"SCARA Robots",4,4,76,19
+722,2353,19/05/2021,"Alta Shakesby","Kansas City",Missouri,EB503,4,eBooks,EB,"Building Your Own Drone",4,3,72,24
+723,1660,24/12/2020,"Portia Kock",Salinas,California,RK606,5,"Robot Kits",RK,BYOR-3535,5,4,900,225
+723,426,31/03/2020,"Portia Kock",Salinas,California,EB514,4,eBooks,EB,"Polar Robots",4,4,92,23
+724,1882,08/02/2021,"Esther Weeden",Erie,Pennsylvania,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,5,20,4
+724,387,22/03/2020,"Esther Weeden",Erie,Pennsylvania,TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,4,168,42
+724,249,19/02/2020,"Esther Weeden",Erie,Pennsylvania,EB516,4,eBooks,EB,"RTF Drones",4,2,32,16
+726,7,02/01/2020,"Anne-marie Guion",Houston,Texas,RK604,5,"Robot Kits",RK,BYOR-2640S,5,2,378,189
+727,911,13/07/2020,"Olivier Royse",Charleston,"West Virginia",RK605,5,"Robot Kits",RK,BYOR-3000,5,2,428,214
+728,1014,05/08/2020,"Charmian Vanderson",Chicago,Illinois,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,4,1000,250
+729,511,17/04/2020,"Nerte Shillabeer",Atlanta,Georgia,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,5,45,9
+730,706,29/05/2020,"Lorant Thumann","East Saint Louis",Illinois,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,3,750,250
+731,2342,17/05/2021,"Tanney Hawkswood",Sacramento,California,EB504,4,eBooks,EB,"Cartesian Robots",4,3,36,12
+731,2138,03/04/2021,"Tanney Hawkswood",Sacramento,California,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,3,33,11
+733,1150,04/09/2020,"Mart Bettis",Wichita,Kansas,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,4,48,12
+735,466,06/04/2020,"Hubey Haw",Boise,Idaho,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,2,500,250
+735,409,27/03/2020,"Hubey Haw",Boise,Idaho,EB514,4,eBooks,EB,"Polar Robots",4,6,138,23
+735,247,18/02/2020,"Hubey Haw",Boise,Idaho,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,3,84,28
+736,1019,06/08/2020,"Ermin Matlock",Washington,"District of Columbia",DK206,2,"Drone Kits",DK,BYOD-400,2,2,238,119
+737,1911,13/02/2021,"Claire Crowther",Pasadena,California,BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,5,40,8
+739,814,23/06/2020,"Randal MacDavitt",Atlanta,Georgia,TV803,7,"Training Videos",TV,"Cloud Computing",7,2,58,29
+740,551,29/04/2020,"Kendra Twallin","Falls Church",Virginia,RK604,5,"Robot Kits",RK,BYOR-2640S,5,3,567,189
+741,785,16/06/2020,"Chuck Sarvar",Memphis,Tennessee,DK207,2,"Drone Kits",DK,BYOD-400S,2,3,387,129
+742,905,11/07/2020,"Susana Baglow",Tacoma,Washington,EB502,4,eBooks,EB,"Building Your First Robot",4,4,96,24
+743,531,24/04/2020,"Jenna Crofts","Young America",Minnesota,DS301,3,Drones,DS,"DA-SA702 Drone",3,5,1995,399
+746,1682,29/12/2020,"Cally Roughley",Gulfport,Mississippi,TV813,7,"Training Videos",TV,"Virtual Reality Basics",7,5,145,29
+747,2316,12/05/2021,"Shaw Cawston",Pasadena,California,DK204,2,"Drone Kits",DK,BYOD-300,2,5,445,89
+752,1918,15/02/2021,"Dollie Pennells",Tucson,Arizona,DK201,2,"Drone Kits",DK,BYOD-100,2,5,270,54
+754,2176,13/04/2021,"Free Stebbings",Richmond,Virginia,DK208,2,"Drone Kits",DK,BYOD-500,2,5,835,167
+755,1475,13/11/2020,"Wandie Lyness","San Diego",California,EB503,4,eBooks,EB,"Building Your Own Drone",4,5,120,24
+755,870,05/07/2020,"Wandie Lyness","San Diego",California,TV802,7,"Training Videos",TV,"AI for Educators",7,2,98,49
+755,632,15/05/2020,"Wandie Lyness","San Diego",California,EB513,4,eBooks,EB,"Photograph Drones",4,5,70,14
+756,1352,15/10/2020,"Linea Yardy","Sioux Falls","South Dakota",RK607,5,"Robot Kits",RK,BYOR-4005,5,4,980,245
+756,460,05/04/2020,"Linea Yardy","Sioux Falls","South Dakota",TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,5,210,42
+757,1361,16/10/2020,"Aylmar Cornick",Houston,Texas,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,3,12,4
+758,1769,16/01/2021,"Fraser Wardroper",Riverside,California,DK204,2,"Drone Kits",DK,BYOD-300,2,6,534,89
+760,847,01/07/2020,"Ahmad Lonie",Bellevue,Washington,DK202,2,"Drone Kits",DK,BYOD-200,2,4,232,58
+760,342,10/03/2020,"Ahmad Lonie",Bellevue,Washington,EB506,4,eBooks,EB,"Delta Robots",4,2,32,16
+762,1738,11/01/2021,"Bob Chattington",Lancaster,California,TV803,7,"Training Videos",TV,"Cloud Computing",7,3,87,29
+763,2060,18/03/2021,"Charil Seear",Akron,Ohio,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,1,28,28
+763,493,13/04/2020,"Charil Seear",Akron,Ohio,EB507,4,eBooks,EB,"Drone Building Essentials",4,4,52,13
+763,440,03/04/2020,"Charil Seear",Akron,Ohio,DK203,2,"Drone Kits",DK,BYOD-220,2,6,414,69
+764,2269,02/05/2021,"Dedie Pabelik",Jacksonville,Florida,EB514,4,eBooks,EB,"Polar Robots",4,4,92,23
+764,884,08/07/2020,"Dedie Pabelik",Jacksonville,Florida,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,3,111,37
+766,1805,24/01/2021,"Tibold Gumby",Trenton,"New Jersey",TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,4,112,28
+767,1856,02/02/2021,"Madlin Joberne",Houston,Texas,BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,2,8,4
+770,181,06/02/2020,"Adolf Kitchenham",Detroit,Michigan,DK209,2,"Drone Kits",DK,BYOD-550,2,3,537,179
+772,85,19/01/2020,"Drusy Fison","Long Beach",California,RK603,5,"Robot Kits",RK,BYOR-1500,5,5,945,189
+773,1297,04/10/2020,"Dugald Shuter",Columbus,Ohio,EB517,4,eBooks,EB,"SCARA Robots",4,4,76,19
+774,720,01/06/2020,"Collie Ansty",Jacksonville,Florida,BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,3,24,8
+775,1251,24/09/2020,"Sabra Battell","San Antonio",Texas,TV807,7,"Training Videos",TV,"Open Source Code",7,2,64,32
+775,830,26/06/2020,"Sabra Battell","San Antonio",Texas,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,6,222,37
+775,577,06/05/2020,"Sabra Battell","San Antonio",Texas,TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,5,210,42
+776,1390,22/10/2020,"Tanya Annies",Beaverton,Oregon,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,1,250,250
+778,1467,10/11/2020,"Stormie Gwilym","Cape Coral",Florida,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,2,56,28
+779,445,03/04/2020,"Tallie Niezen","Las Vegas",Nevada,RK602,5,"Robot Kits",RK,BYOR-1000,5,3,567,189
+782,1875,07/02/2021,"Ilise Wasiela",Houston,Texas,EB517,4,eBooks,EB,"SCARA Robots",4,3,57,19
+782,658,19/05/2020,"Ilise Wasiela",Houston,Texas,TV802,7,"Training Videos",TV,"AI for Educators",7,4,196,49
+783,754,07/06/2020,"Klemens Bolf",Phoenix,Arizona,EB512,4,eBooks,EB,"Multi Rotor Drones",4,6,144,24
+785,2372,23/05/2021,"Fairleigh Spencley",Chicago,Illinois,RK602,5,"Robot Kits",RK,BYOR-1000,5,3,567,189
+787,1571,05/12/2020,"Purcell Dubose","Sioux City",Iowa,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,5,55,11
+787,1555,02/12/2020,"Purcell Dubose","Sioux City",Iowa,RK607,5,"Robot Kits",RK,BYOR-4005,5,1,245,245
+787,1012,04/08/2020,"Purcell Dubose","Sioux City",Iowa,DK208,2,"Drone Kits",DK,BYOD-500,2,5,835,167
+788,1120,30/08/2020,"Mason Caddan",Decatur,Georgia,DK208,2,"Drone Kits",DK,BYOD-500,2,3,501,167
+790,621,13/05/2020,"Shelley Shee",Tampa,Florida,EB513,4,eBooks,EB,"Photograph Drones",4,5,70,14
+793,1654,22/12/2020,"Fonzie Casero",Peoria,Illinois,BP106,1,Blueprints,BP,"Hexacopter Drone Blueprint",1,3,24,8
+793,1096,24/08/2020,"Fonzie Casero",Peoria,Illinois,DK202,2,"Drone Kits",DK,BYOD-200,2,4,232,58
+794,2371,23/05/2021,"Devi Shelborne",Columbus,Georgia,DK209,2,"Drone Kits",DK,BYOD-550,2,5,895,179
+794,562,03/05/2020,"Devi Shelborne",Columbus,Georgia,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,2,22,11
+794,45,08/01/2020,"Devi Shelborne",Columbus,Georgia,TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,4,168,42
+795,2113,30/03/2021,"Collete Corbitt",Oakland,California,DS305,3,Drones,DS,"DTI-84 Drone",3,3,1365,455
+795,801,20/06/2020,"Collete Corbitt",Oakland,California,TV811,7,"Training Videos",TV,"Understanding Drone Regulations",7,2,54,27
+797,2004,05/03/2021,"Bethany Scogin","Saint Louis",Missouri,DK203,2,"Drone Kits",DK,BYOD-220,2,4,276,69
+797,338,09/03/2020,"Bethany Scogin","Saint Louis",Missouri,RK602,5,"Robot Kits",RK,BYOR-1000,5,4,756,189
+798,368,17/03/2020,"Bertram Scopham",Durham,"North Carolina",EB508,4,eBooks,EB,"Fixed Wing Drones",4,3,45,15
+800,839,28/06/2020,"Nathanial De Banke",Denver,Colorado,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,4,36,9
+801,692,26/05/2020,"Keri Kingwell","Wichita Falls",Texas,EB506,4,eBooks,EB,"Delta Robots",4,3,48,16
+802,1273,29/09/2020,"Boyce Sorton",Bismarck,"North Dakota",DS307,3,Drones,DS,"MICR-564K Drone",3,4,1996,499
+802,209,11/02/2020,"Boyce Sorton",Bismarck,"North Dakota",EB512,4,eBooks,EB,"Multi Rotor Drones",4,3,72,24
+806,19,03/01/2020,"Remy Rehm","Green Bay",Wisconsin,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,3,111,37
+809,2348,17/05/2021,"Alvan Hawkslee",Dayton,Ohio,EB509,4,eBooks,EB,"GPS Drones",4,4,76,19
+809,854,02/07/2020,"Alvan Hawkslee",Dayton,Ohio,EB507,4,eBooks,EB,"Drone Building Essentials",4,4,52,13
+810,1618,14/12/2020,"Dniren Choudhury",Seattle,Washington,EB521,4,eBooks,EB,"Understanding Artificial Intelligence",4,2,38,19
+810,673,22/05/2020,"Dniren Choudhury",Seattle,Washington,BP106,1,Blueprints,BP,"Hexacopter Drone Blueprint",1,4,32,8
+810,548,29/04/2020,"Dniren Choudhury",Seattle,Washington,EB511,4,eBooks,EB,"Helicopter Drones",4,5,100,20
+811,31,06/01/2020,"Ariela Berick",Atlanta,Georgia,TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,1,42,42
+812,1590,09/12/2020,"Kirby Brownlea",Spartanburg,"South Carolina",TV805,7,"Training Videos",TV,"Industrial 3D Printing",7,5,245,49
+813,2079,23/03/2021,"Sollie Ixer",Mobile,Alabama,DS307,3,Drones,DS,"MICR-564K Drone",3,4,1996,499
+813,1381,21/10/2020,"Sollie Ixer",Mobile,Alabama,TV806,7,"Training Videos",TV,"Mapping with Drones",7,2,98,49
+813,271,25/02/2020,"Sollie Ixer",Mobile,Alabama,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,2,500,250
+814,35,07/01/2020,"Reeta Deere",Syracuse,"New York",EB504,4,eBooks,EB,"Cartesian Robots",4,5,60,12
+815,12,02/01/2020,"Jake Zellick",Washington,"District of Columbia",DK201,2,"Drone Kits",DK,BYOD-100,2,5,270,54
+818,1908,13/02/2021,"Reinwald Alekseev",Olympia,Washington,BP107,1,Blueprints,BP,"Ladybug Robot Blueprint",1,6,72,12
+818,1725,07/01/2021,"Reinwald Alekseev",Olympia,Washington,RK605,5,"Robot Kits",RK,BYOR-3000,5,4,856,214
+818,1591,09/12/2020,"Reinwald Alekseev",Olympia,Washington,TV810,7,"Training Videos",TV,"Understanding Automation",7,3,132,44
+818,1105,26/08/2020,"Reinwald Alekseev",Olympia,Washington,EB504,4,eBooks,EB,"Cartesian Robots",4,4,48,12
+819,2354,19/05/2021,"Jackqueline Romanet","Fort Worth",Texas,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,5,45,9
+819,1463,09/11/2020,"Jackqueline Romanet","Fort Worth",Texas,TV811,7,"Training Videos",TV,"Understanding Drone Regulations",7,3,81,27
+820,1734,11/01/2021,"Charlena Mayworth",Juneau,Alaska,EB509,4,eBooks,EB,"GPS Drones",4,4,76,19
+820,1431,31/10/2020,"Charlena Mayworth",Juneau,Alaska,EB503,4,eBooks,EB,"Building Your Own Drone",4,3,72,24
+820,945,21/07/2020,"Charlena Mayworth",Juneau,Alaska,EB504,4,eBooks,EB,"Cartesian Robots",4,3,36,12
+820,490,11/04/2020,"Charlena Mayworth",Juneau,Alaska,EB501,4,eBooks,EB,"Articulated Robots",4,5,115,23
+825,2253,30/04/2021,"Ludwig Colman",Arlington,Virginia,EB505,4,eBooks,EB,"Delivery Drones",4,3,42,14
+826,1455,06/11/2020,"Analise Philo",Minneapolis,Minnesota,RS705,6,Robots,RS,"RQTE-554 Robot",6,4,2736,684
+827,2029,11/03/2021,"Krysta Djurdjevic",Mobile,Alabama,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,2,18,9
+827,1833,29/01/2021,"Krysta Djurdjevic",Mobile,Alabama,BP109,1,Blueprints,BP,"QuadroCopter Blueprint",1,2,20,10
+827,1486,16/11/2020,"Krysta Djurdjevic",Mobile,Alabama,RK603,5,"Robot Kits",RK,BYOR-1500,5,5,945,189
+828,885,08/07/2020,"Fairleigh Peiser",Pocatello,Idaho,TV803,7,"Training Videos",TV,"Cloud Computing",7,5,145,29
+829,2321,13/05/2021,"Addy Toohey",Baltimore,Maryland,EB520,4,eBooks,EB,"Understanding Arduino",4,3,51,17
+831,1746,13/01/2021,"Merilee Denis",Montgomery,Alabama,TV808,7,"Training Videos",TV,"Robotic Essentials",7,5,170,34
+831,125,25/01/2020,"Merilee Denis",Montgomery,Alabama,TV806,7,"Training Videos",TV,"Mapping with Drones",7,3,147,49
+832,2286,05/05/2021,"Catlee Royle","Virginia Beach",Virginia,EB516,4,eBooks,EB,"RTF Drones",4,5,80,16
+832,2101,28/03/2021,"Catlee Royle","Virginia Beach",Virginia,DK208,2,"Drone Kits",DK,BYOD-500,2,5,835,167
+832,22,04/01/2020,"Catlee Royle","Virginia Beach",Virginia,DK205,2,"Drone Kits",DK,BYOD-350,2,4,356,89
+832,15,02/01/2020,"Catlee Royle","Virginia Beach",Virginia,RK605,5,"Robot Kits",RK,BYOR-3000,5,2,428,214
+835,1366,18/10/2020,"Kimmie Bucke",Chicago,Illinois,EB511,4,eBooks,EB,"Helicopter Drones",4,2,40,20
+836,2088,25/03/2021,"Randolph Seson","Saint Louis",Missouri,EB516,4,eBooks,EB,"RTF Drones",4,3,48,16
+836,1243,23/09/2020,"Randolph Seson","Saint Louis",Missouri,RK606,5,"Robot Kits",RK,BYOR-3535,5,1,225,225
+837,2284,04/05/2021,"Sayres McAlindon",Stockton,California,RK604,5,"Robot Kits",RK,BYOR-2640S,5,2,378,189
+840,187,07/02/2020,"Carlynn Kobierzycki",Atlanta,Georgia,EB503,4,eBooks,EB,"Building Your Own Drone",4,1,24,24
+841,34,06/01/2020,"Tome Beller",Melbourne,Florida,RK606,5,"Robot Kits",RK,BYOR-3535,5,4,900,225
+842,2173,12/04/2021,"Helaina Bambury",Paterson,"New Jersey",BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,2,14,7
+843,1338,13/10/2020,"Sharleen Ricciardo","San Angelo",Texas,EB508,4,eBooks,EB,"Fixed Wing Drones",4,3,45,15
+843,1179,10/09/2020,"Sharleen Ricciardo","San Angelo",Texas,RK606,5,"Robot Kits",RK,BYOR-3535,5,4,900,225
+844,2068,19/03/2021,"Tamarah Baynton",Juneau,Alaska,DS307,3,Drones,DS,"MICR-564K Drone",3,3,1497,499
+844,1408,25/10/2020,"Tamarah Baynton",Juneau,Alaska,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,3,33,11
+845,1592,09/12/2020,"Wolfy Halgarth",Albany,"New York",EB505,4,eBooks,EB,"Delivery Drones",4,3,42,14
+845,1413,27/10/2020,"Wolfy Halgarth",Albany,"New York",RK607,5,"Robot Kits",RK,BYOR-4005,5,4,980,245
+845,710,30/05/2020,"Wolfy Halgarth",Albany,"New York",BP102,1,Blueprints,BP,"Bsquare Robot Blueprint",1,4,32,8
+847,100,21/01/2020,"Vassili Lanfare",Miami,Florida,RS704,6,Robots,RS,"RLK-9920 Robot",6,6,4194,699
+848,2277,04/05/2021,"Carly Neno",Aurora,Illinois,TV813,7,"Training Videos",TV,"Virtual Reality Basics",7,4,116,29
+848,1280,30/09/2020,"Carly Neno",Aurora,Illinois,RK603,5,"Robot Kits",RK,BYOR-1500,5,2,378,189
+848,645,17/05/2020,"Carly Neno",Aurora,Illinois,EB520,4,eBooks,EB,"Understanding Arduino",4,5,85,17
+848,458,05/04/2020,"Carly Neno",Aurora,Illinois,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,4,36,9
+848,223,13/02/2020,"Carly Neno",Aurora,Illinois,RK605,5,"Robot Kits",RK,BYOR-3000,5,4,856,214
+849,1603,11/12/2020,"Dov Bamsey","Lake Charles",Louisiana,TV801,7,"Training Videos",TV,"Aerial Security",7,2,72,36
+852,1906,13/02/2021,"Tracie Pegden",Denver,Colorado,EB502,4,eBooks,EB,"Building Your First Robot",4,3,72,24
+852,791,18/06/2020,"Tracie Pegden",Denver,Colorado,RK604,5,"Robot Kits",RK,BYOR-2640S,5,3,567,189
+853,2241,26/04/2021,"Sherwood Waddingham",Prescott,Arizona,EB516,4,eBooks,EB,"RTF Drones",4,1,16,16
+854,1820,26/01/2021,"Donovan Linzee",Tacoma,Washington,EB507,4,eBooks,EB,"Drone Building Essentials",4,2,26,13
+854,893,10/07/2020,"Donovan Linzee",Tacoma,Washington,EB518,4,eBooks,EB,"Single Rotor Drones",4,6,84,14
+854,684,24/05/2020,"Donovan Linzee",Tacoma,Washington,DK205,2,"Drone Kits",DK,BYOD-350,2,4,356,89
+856,42,07/01/2020,"Trudy Leishman",Pensacola,Florida,TV802,7,"Training Videos",TV,"AI for Educators",7,3,147,49
+857,2085,24/03/2021,"Gardie Morriss","San Francisco",California,TV807,7,"Training Videos",TV,"Open Source Code",7,4,128,32
+858,1193,13/09/2020,"Whitby Hearse","Daytona Beach",Florida,EB503,4,eBooks,EB,"Building Your Own Drone",4,5,120,24
+859,2215,21/04/2021,"Yuma Thies","Las Cruces","New Mexico",DK203,2,"Drone Kits",DK,BYOD-220,2,2,138,69
+862,1529,23/11/2020,"Myrah Smullen",Charlotte,"North Carolina",RK607,5,"Robot Kits",RK,BYOR-4005,5,2,490,245
+863,961,22/07/2020,"Kassey Winfindale",Houston,Texas,RK606,5,"Robot Kits",RK,BYOR-3535,5,6,1350,225
+864,1991,01/03/2021,"Alina Lockley",Dayton,Ohio,DS305,3,Drones,DS,"DTI-84 Drone",3,4,1820,455
+864,1138,02/09/2020,"Alina Lockley",Dayton,Ohio,RS703,6,Robots,RS,"RCB-889 Robot",6,4,2196,549
+864,1125,01/09/2020,"Alina Lockley",Dayton,Ohio,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,3,750,250
+865,1771,17/01/2021,"Carlie Stedman",Sacramento,California,TV801,7,"Training Videos",TV,"Aerial Security",7,5,180,36
+865,95,21/01/2020,"Carlie Stedman",Sacramento,California,RS707,6,Robots,RS,"RXW-9807 Robot",6,5,2995,599
+866,2221,22/04/2021,"Binky Waiton",Madison,Wisconsin,TV803,7,"Training Videos",TV,"Cloud Computing",7,3,87,29
+866,1946,21/02/2021,"Binky Waiton",Madison,Wisconsin,EB514,4,eBooks,EB,"Polar Robots",4,5,115,23
+866,1602,10/12/2020,"Binky Waiton",Madison,Wisconsin,TV808,7,"Training Videos",TV,"Robotic Essentials",7,3,102,34
+866,1442,03/11/2020,"Binky Waiton",Madison,Wisconsin,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,2,74,37
+866,1307,07/10/2020,"Binky Waiton",Madison,Wisconsin,DS307,3,Drones,DS,"MICR-564K Drone",3,4,1996,499
+866,231,15/02/2020,"Binky Waiton",Madison,Wisconsin,EB513,4,eBooks,EB,"Photograph Drones",4,5,70,14
+867,250,19/02/2020,"Cecilius Bentinck","New York City","New York",RS705,6,Robots,RS,"RQTE-554 Robot",6,6,4104,684
+868,646,17/05/2020,"Bobby Froom","Salt Lake City",Utah,DK202,2,"Drone Kits",DK,BYOD-200,2,3,174,58
+868,536,25/04/2020,"Bobby Froom","Salt Lake City",Utah,TV812,7,"Training Videos",TV,"Understanding Raspberry PI",7,4,112,28
+868,164,03/02/2020,"Bobby Froom","Salt Lake City",Utah,EB514,4,eBooks,EB,"Polar Robots",4,3,69,23
+870,1543,28/11/2020,"Veronica McFee",Detroit,Michigan,RS703,6,Robots,RS,"RCB-889 Robot",6,5,2745,549
+871,2231,24/04/2021,"Thibaud Elloy",Anchorage,Alaska,DS301,3,Drones,DS,"DA-SA702 Drone",3,5,1995,399
+871,787,16/06/2020,"Thibaud Elloy",Anchorage,Alaska,EB520,4,eBooks,EB,"Understanding Arduino",4,4,68,17
+873,1663,24/12/2020,"Julee Rozanski","Oklahoma City",Oklahoma,EB505,4,eBooks,EB,"Delivery Drones",4,5,70,14
+874,604,10/05/2020,"Isahella Bastock",Alexandria,Virginia,RK606,5,"Robot Kits",RK,BYOR-3535,5,5,1125,225
+875,2293,06/05/2021,"Amy Kelwaybamber","Boca Raton",Florida,EB516,4,eBooks,EB,"RTF Drones",4,1,16,16
+875,739,03/06/2020,"Amy Kelwaybamber","Boca Raton",Florida,EB505,4,eBooks,EB,"Delivery Drones",4,4,56,14
+875,668,21/05/2020,"Amy Kelwaybamber","Boca Raton",Florida,BP110,1,Blueprints,BP,"Sleepy Eye Blueprint",1,4,44,11
+881,975,28/07/2020,"Deane Bromage",Bellevue,Washington,RK605,5,"Robot Kits",RK,BYOR-3000,5,4,856,214
+882,2260,01/05/2021,"Bartholemy Dunseath",Dallas,Texas,EB506,4,eBooks,EB,"Delta Robots",4,6,96,16
+882,2136,03/04/2021,"Bartholemy Dunseath",Dallas,Texas,BP105,1,Blueprints,BP,"Creature Robot Arms Blueprint",1,5,60,12
+883,2218,22/04/2021,"Eadith Chicchelli","Winston Salem","North Carolina",BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,2,14,7
+885,1510,19/11/2020,"Aime Burhouse","Winston Salem","North Carolina",BP104,1,Blueprints,BP,"Cat Robot Blueprint",1,4,16,4
+886,1349,15/10/2020,"Ronny Joannet","San Antonio",Texas,EB514,4,eBooks,EB,"Polar Robots",4,2,46,23
+886,1093,24/08/2020,"Ronny Joannet","San Antonio",Texas,DK205,2,"Drone Kits",DK,BYOD-350,2,4,356,89
+886,836,28/06/2020,"Ronny Joannet","San Antonio",Texas,BP109,1,Blueprints,BP,"QuadroCopter Blueprint",1,4,40,10
+889,771,11/06/2020,"Elke Porter",Oakland,California,EB501,4,eBooks,EB,"Articulated Robots",4,1,23,23
+889,29,06/01/2020,"Elke Porter",Oakland,California,EB511,4,eBooks,EB,"Helicopter Drones",4,5,100,20
+890,590,08/05/2020,"Hetty Insworth",Atlanta,Georgia,EB511,4,eBooks,EB,"Helicopter Drones",4,4,80,20
+892,2191,16/04/2021,"Ned Valentinuzzi",Toledo,Ohio,RS705,6,Robots,RS,"RQTE-554 Robot",6,4,2736,684
+892,1916,14/02/2021,"Ned Valentinuzzi",Toledo,Ohio,DS304,3,Drones,DS,"DTE-QFN20 Drone",3,4,1000,250
+892,1708,04/01/2021,"Ned Valentinuzzi",Toledo,Ohio,EB501,4,eBooks,EB,"Articulated Robots",4,1,23,23
+893,628,14/05/2020,"Kristen Bolingbroke",Springfield,Massachusetts,DK206,2,"Drone Kits",DK,BYOD-400,2,5,595,119
+894,1155,05/09/2020,"Helli Bamlet","Sioux City",Iowa,DK207,2,"Drone Kits",DK,BYOD-400S,2,3,387,129
+894,64,13/01/2020,"Helli Bamlet","Sioux City",Iowa,TV809,7,"Training Videos",TV,"Understanding 3D Printing",7,5,210,42
+897,811,22/06/2020,"Prisca McTerlagh",Fresno,California,DS303,3,Drones,DS,"DTD-7000 Drone",3,2,900,450
+897,530,23/04/2020,"Prisca McTerlagh",Fresno,California,EB503,4,eBooks,EB,"Building Your Own Drone",4,1,24,24
+897,410,27/03/2020,"Prisca McTerlagh",Fresno,California,BP108,1,Blueprints,BP,"Panda Robot Blueprint",1,1,7,7
+897,79,18/01/2020,"Prisca McTerlagh",Fresno,California,DK209,2,"Drone Kits",DK,BYOD-550,2,3,537,179
+901,1643,21/12/2020,"Julissa Brannan",Dayton,Ohio,RK606,5,"Robot Kits",RK,BYOR-3535,5,2,450,225
+902,1404,25/10/2020,"Robb Keelan",Trenton,"New Jersey",RS702,6,Robots,RS,"MICR-23K Robot",6,3,2697,899
+902,324,06/03/2020,"Robb Keelan",Trenton,"New Jersey",DK202,2,"Drone Kits",DK,BYOD-200,2,2,116,58
+905,418,29/03/2020,"Fawnia Follacaro",Lexington,Kentucky,TV804,7,"Training Videos",TV,"Drone Video Techniques",7,4,148,37
+906,959,22/07/2020,"Kitty Brewitt",Flint,Michigan,TV807,7,"Training Videos",TV,"Open Source Code",7,5,160,32
+906,218,12/02/2020,"Kitty Brewitt",Flint,Michigan,DK203,2,"Drone Kits",DK,BYOD-220,2,4,276,69
+908,1887,09/02/2021,"Fonsie Aron","San Diego",California,DK203,2,"Drone Kits",DK,BYOD-220,2,2,138,69
+908,117,24/01/2020,"Fonsie Aron","San Diego",California,DS305,3,Drones,DS,"DTI-84 Drone",3,2,910,455
+910,2314,11/05/2021,"Hyacinth Slark",Detroit,Michigan,EB503,4,eBooks,EB,"Building Your Own Drone",4,6,144,24
+910,1655,23/12/2020,"Hyacinth Slark",Detroit,Michigan,EB507,4,eBooks,EB,"Drone Building Essentials",4,4,52,13
+912,308,02/03/2020,"Jillane McKirton","Kansas City",Missouri,BP109,1,Blueprints,BP,"QuadroCopter Blueprint",1,5,50,10
+914,1175,09/09/2020,"Whitby MacDowal","San Diego",California,DK209,2,"Drone Kits",DK,BYOD-550,2,4,716,179
+914,987,30/07/2020,"Whitby MacDowal","San Diego",California,RS703,6,Robots,RS,"RCB-889 Robot",6,5,2745,549
+915,285,26/02/2020,"Henrieta Geeraert",Clearwater,Florida,TV807,7,"Training Videos",TV,"Open Source Code",7,5,160,32
+918,1479,15/11/2020,"Stuart Varley",Houston,Texas,DS305,3,Drones,DS,"DTI-84 Drone",3,5,2275,455
+922,200,09/02/2020,"Lanni D'Ambrogi",Columbia,Missouri,DK202,2,"Drone Kits",DK,BYOD-200,2,6,348,58
+923,1758,15/01/2021,"Free Kolodziejski",Chicago,Illinois,BP101,1,Blueprints,BP,"All Eyes Drone Blueprint",1,1,9,9
+924,1657,23/12/2020,"Morgan Paddell",Hartford,Connecticut,TV805,7,"Training Videos",TV,"Industrial 3D Printing",7,4,196,49
+925,715,30/05/2020,"Phillie Waylett",Glendale,California,DS302,3,Drones,DS,"DC-304 Drone",3,2,790,395
